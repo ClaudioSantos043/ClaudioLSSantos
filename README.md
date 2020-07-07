@@ -20,21 +20,13 @@ Aplicativos <p>
 TV INES <br>
 TV INES – Primeira Mão <br>
 TV Escola <p>
-
-
 .
 
-**Background in:** Google Data Studio, MS Power BI, DAX e Excel.
+**Experiência em:** Google Data Studio, MS Power BI, DAX e Excel.
 
 
 **Links:**
 *  [LinkedIn](https://www.linkedin.com/in/claudio-santos-5824b824/)
-* 
-
-
-
-
-
 ## Projetos:
 Veja os tutoriais publicados:
 
@@ -43,15 +35,12 @@ Veja os tutoriais publicados:
 * <br>
 **implementar:** Implementar
 
----
-
 ## Formação Acadêmica:
-**Escola Politécnica UFRJ:** MBA em Garantia de Qualidade de Software – (dez/2013);* <br>
+**Escola Politécnica UFRJ:** MBA em Garantia de Qualidade de Software – (dez/2013); <br>
 **UFF:** MBA em TV Digital, Radiodifusão e Novas Mídias de Comunicação Eletrônica – (Jul/2011);
-* <br>
+ <br>
 **Universidade Estácio de Sá:** Tecnólogo em Processamento de Dados - (Jun/1996).
-* <br>
-
+ <p>
 
 ## Cursos Complementares:
 **UDACITY:** Fundamentos de Análise de Dados (mai/2019).;* <br>
@@ -62,10 +51,10 @@ Veja os tutoriais publicados:
 * <br>
 **PUC-Rio:** Métodos Ágeis de Gerência em Desenvolvimento de Software * <br>
 **PUC-Rio:** Métodos de Revisão & Teste em Projetos de Software  * <br>
-**PUC-Rio:** Análise Orientada a Objetos com UML   * <br>
+**PUC-Rio:** Análise Orientada a Objetos com UML.* <br>
 
 ## Eventos:
 **MVPConf 2019 :** abril 2019 – São Paulo - SP;* <br>
 **V Seminário Big Data Brasil  :** novembro 2018 – Rio de Janeiro - RJ;* <br>
 **Scrum Gathering Rio 2014   :** setembro 2014 – Rio de Janeiro – RJ;* <br>
-**2ª Conferência Latino-Americana sobre Metodologia Ágeis:** 8 e 9 de outubro 2009 em Florianópolis – SC* 
+**2ª Conferência Latino-Americana sobre Metodologia Ágeis:** 8 e 9 de outubro 2009 em Florianópolis – SC*
