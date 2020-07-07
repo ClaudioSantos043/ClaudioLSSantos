@@ -52,7 +52,7 @@ Veja os tutoriais publicados:
 **PUC-Rio:** Métodos de Revisão & Teste em Projetos de Software;* <br>
 **PUC-Rio:** Análise Orientada a Objetos com UML.* <p>
 ## Eventos:
-**MVPConf 2019 :** abril 2019 – São Paulo - SP;* <br>
-**V Seminário Big Data Brasil  :** novembro 2018 – Rio de Janeiro - RJ;* <br>
-**Scrum Gathering Rio 2014   :** setembro 2014 – Rio de Janeiro – RJ;* <br>
-**2ª Conferência Latino-Americana sobre Metodologia Ágeis:** 8 e 9 de outubro 2009 em Florianópolis – SC*
+  * **MVPConf 2019 :** abril 2019 – São Paulo - SP;* <br>
+* **V Seminário Big Data Brasil  :** novembro 2018 – Rio de Janeiro - RJ;* <br>
+* **Scrum Gathering Rio 2014   :** setembro 2014 – Rio de Janeiro – RJ;* <br>
+* **2ª Conferência Latino-Americana sobre Metodologia Ágeis:** 8 e 9 de outubro 2009 em Florianópolis – SC
