@@ -33,14 +33,11 @@ Aplicativos <p>
 *  [LinkedIn](https://www.linkedin.com/in/claudio-santos-5824b824/)
 
 
-
-
 ## Projetos:
 Veja os tutoriais publicados:
 
 
-* **Implementar:** Implementar
-
+* **TV Escola:** [TV Escola] (https://bit.ly/3gzLvyE)
 * **Implementar:** Implementar
 
 * **Implementar:** Implementar
@@ -63,8 +60,9 @@ Veja os tutoriais publicados:
 
 
 
+
 ## Cursos Complementares:
-* **SQLBI:** Introdução DAX - OnLine (2019). <br>
+* **SQLBI:** Introdução DAX - OnLine (2020). <br>
 * **UDACITY:** Fundamentos de Análise de Dados (2019). <br>
 * **DATAB:** Power BI – Módulos I e II (2018).<br>
 * **DATAB:** Excel – Básico ao Avançado (2019). <br>
@@ -89,4 +87,3 @@ Veja os tutoriais publicados:
 * **V Seminário Big Data Brasil  :** novembro 2018 – Rio de Janeiro - RJ. <br>
 * **Scrum Gathering Rio 2014   :** setembro 2014 – Rio de Janeiro – RJ. <br>
 * **2ª Conferência Latino-Americana sobre Metodologia Ágeis:** 8 e 9 de outubro 2009 em Florianópolis – SC.
-
