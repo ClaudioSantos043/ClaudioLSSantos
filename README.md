@@ -10,11 +10,11 @@ Com aumento da demanda e com mais conhecimento, começamos a trabalhar com Power
 As informações coletadas, são acompanhadas de textos explicativos, comparando com mês ou período anterior.<p>
 As informações são retiradas das seguintes páginas e aplicativos:<p>
   Páginas Web <p>
-https://tvines.org.br <br>
+   https://tvines.org.br <br>
 https://tvescola.org.br <br>
 http://hotsite.tvescola.org.br/conexaoescolas/ <br>
 http://hotsite.tvescola.org.br/percursos <br>
-http://hosite.tvescola.org.br/seguimosconectados/ <br>
+http://hotsite.tvescola.org.br/seguimosconectados/ <br>
 <p>
 Aplicativos <p>
 TV INES <br>
@@ -28,10 +28,15 @@ TV Escola <p>
 
 
 **Links:**
-*  [LinkedIn](https://www.https://www.linkedin.com/in/claudio-santos-5824b824/)
+*  [LinkedIn](https://www.linkedin.com/in/claudio-santos-5824b824/)
 * 
+
+
+
+
+
 ## Projetos:
-Veja os tutoriais publicados do Sigmoidal:
+Veja os tutoriais publicados:
 
 * 
 **Implementar:** Implementar
@@ -40,22 +45,12 @@ Veja os tutoriais publicados do Sigmoidal:
 
 ---
 
-
-
-
-
-
 ## Formação Acadêmica:
 **Escola Politécnica UFRJ:** MBA em Garantia de Qualidade de Software – (dez/2013);* <br>
 **UFF:** MBA em TV Digital, Radiodifusão e Novas Mídias de Comunicação Eletrônica – (Jul/2011);
 * <br>
 **Universidade Estácio de Sá:** Tecnólogo em Processamento de Dados - (Jun/1996).
 * <br>
-
-
-
-
-
 
 
 ## Cursos Complementares:
@@ -69,12 +64,8 @@ Veja os tutoriais publicados do Sigmoidal:
 **PUC-Rio:** Métodos de Revisão & Teste em Projetos de Software  * <br>
 **PUC-Rio:** Análise Orientada a Objetos com UML   * <br>
 
-
-
-
-
 ## Eventos:
 **MVPConf 2019 :** abril 2019 – São Paulo - SP;* <br>
 **V Seminário Big Data Brasil  :** novembro 2018 – Rio de Janeiro - RJ;* <br>
 **Scrum Gathering Rio 2014   :** setembro 2014 – Rio de Janeiro – RJ;* <br>
-**2ª Conferência Latino-Americana sobre Metodologia Ágeis 8 e 9 de outubro 2009 em Florianópolis – SC* 
+**2ª Conferência Latino-Americana sobre Metodologia Ágeis:** 8 e 9 de outubro 2009 em Florianópolis – SC* 
