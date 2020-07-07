@@ -35,11 +35,7 @@ Aplicativos <p>
 
 ## Projetos:
 Veja os tutoriais publicados:
-
-
-* **TV Escola:** [TV Escola] (https://bit.ly/3gzLvyE)
-* **Implementar:** Implementar
-
+* [TV Escola](https://bit.ly/3gzLvyE)
 * **Implementar:** Implementar
 
 
