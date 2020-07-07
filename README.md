@@ -43,16 +43,14 @@ Veja os tutoriais publicados:
  <p>
 
 ## Cursos Complementares:
-**UDACITY:** Fundamentos de Análise de Dados (mai/2019).;* <br>
+**UDACITY:** Fundamentos de Análise de Dados (mai/2019);* <br>
 **DATAB:** Power BI – Módulos I e II;* <br>
 **DATAB:** Excel – Básico ao Avançado;* <br>
-**DATAB:** VBA – Básico ao Avançado* <br>
-**Cursos Expert Digital e Udemy:** Google Analytics e Google Data Studio.
-* <br>
-**PUC-Rio:** Métodos Ágeis de Gerência em Desenvolvimento de Software * <br>
-**PUC-Rio:** Métodos de Revisão & Teste em Projetos de Software  * <br>
-**PUC-Rio:** Análise Orientada a Objetos com UML.* <br>
-
+**DATAB:** VBA – Básico ao Avançado;* <br>
+**Cursos Expert Digital e Udemy:** Google Analytics e Google Data Studio;* <br>
+**PUC-Rio:** Métodos Ágeis de Gerência em Desenvolvimento de Software;* <br>
+**PUC-Rio:** Métodos de Revisão & Teste em Projetos de Software;* <br>
+**PUC-Rio:** Análise Orientada a Objetos com UML.* <p>
 ## Eventos:
 **MVPConf 2019 :** abril 2019 – São Paulo - SP;* <br>
 **V Seminário Big Data Brasil  :** novembro 2018 – Rio de Janeiro - RJ;* <br>
