@@ -14,7 +14,7 @@ As informações são retiradas das seguintes páginas e aplicativos:<p>
 * https://tvescola.org.br <br>
 * http://hotsite.tvescola.org.br/conexaoescolas/ <br>
 * http://hotsite.tvescola.org.br/percursos <br>
-* http://hotsite.tvescola.org.br/seguimosconectados/*
+* http://hotsite.tvescola.org.br/seguimosconectados
 <p>
 **Aplicativos** <p>
 * TV INES <br>
