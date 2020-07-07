@@ -9,17 +9,18 @@ No início as informações eram extraídas do Google Analytics e fornecedores e
 Com aumento da demanda e com mais conhecimento, começamos a trabalhar com Power BI e linguagem DAX e Google Data Studio. Essas ferramentas conectadas ao Google Analytics e ao Excel.<p>
 As informações coletadas, são acompanhadas de textos explicativos, comparando com mês ou período anterior.<p>
 As informações são retiradas das seguintes páginas e aplicativos:<p>
-  **Páginas Web** <p>
+
+Páginas Web <p>
 * https://tvines.org.br <br>
 * https://tvescola.org.br <br>
 * http://hotsite.tvescola.org.br/conexaoescolas/ <br>
 * http://hotsite.tvescola.org.br/percursos <br>
-* http://hotsite.tvescola.org.br/seguimosconectados
+* http://hotsite.tvescola.org.br/seguimosconectados/
 <p>
-**Aplicativos** <p>
+Aplicativos <p>
 * TV INES <br>
-* TV INES – Primeira Mão <br>
-* TV Escola <p>
+* TV INES - Primeira Mão <br>
+* TV Escola <br>
 
 
 .
@@ -49,6 +50,13 @@ Veja os tutoriais publicados:
  <br>
 * **Universidade Estácio de Sá:** Tecnólogo em Processamento de Dados - (Jun/1996).
 * <p>
+
+
+
+
+
+
+
 ## Cursos Complementares:
 * **UDACITY:** Fundamentos de Análise de Dados (mai/2019);* <br>
 * **DATAB:** Power BI – Módulos I e II;* <br>
@@ -58,6 +66,10 @@ Veja os tutoriais publicados:
 * **PUC-Rio:** Métodos Ágeis de Gerência em Desenvolvimento de Software;* <br>
 * **PUC-Rio:** Métodos de Revisão & Teste em Projetos de Software;* <br>
 * **PUC-Rio:** Análise Orientada a Objetos com UML.* <p>
+
+
+
+
 
 
 ## Eventos:
