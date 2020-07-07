@@ -18,10 +18,9 @@ Páginas Web <p>
 * http://hotsite.tvescola.org.br/seguimosconectados/
 <p>
 Aplicativos <p>
-TV INES <br>
-TV INES - Primeira Mão <br>
-TV Escola <br>
-
+* TV INES <br>
+* TV INES - Primeira Mão <br>
+* TV Escola
 
 .
 
@@ -39,14 +38,22 @@ Veja os tutoriais publicados:
 
 
 * **Implementar:** Implementar
-<br>
+
 * **Implementar:** Implementar
+
+* **Implementar:** Implementar
+
 
 
 ## Formação Acadêmica:
 * **Escola Politécnica UFRJ:** MBA em Garantia de Qualidade de Software – (dez/2013).<br>
 * **UFF:** MBA em TV Digital, Radiodifusão e Novas Mídias de Comunicação Eletrônica – (Jul/2011).<br>
 * **Universidade Estácio de Sá:** Tecnólogo em Processamento de Dados - (Jun/1996). <p>
+
+
+
+
+
 
 
 ## Cursos Complementares:
@@ -58,6 +65,10 @@ Veja os tutoriais publicados:
 * **PUC-Rio:** Métodos Ágeis de Gerência em Desenvolvimento de Software. <br>
 * **PUC-Rio:** Métodos de Revisão & Teste em Projetos de Software. <br>
 * **PUC-Rio:** Análise Orientada a Objetos com UML.<p>
+
+
+
+
 
 
 ## Eventos:
