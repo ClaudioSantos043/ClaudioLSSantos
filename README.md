@@ -63,8 +63,8 @@ Veja os tutoriais publicados:
 
 
 
-
 ## Cursos Complementares:
+* **SQLBI:** Introdução DAX - OnLine (2019). <br>
 * **UDACITY:** Fundamentos de Análise de Dados (2019). <br>
 * **DATAB:** Power BI – Módulos I e II (2018).<br>
 * **DATAB:** Excel – Básico ao Avançado (2019). <br>
@@ -73,7 +73,7 @@ Veja os tutoriais publicados:
 * **ITeste:** Formação de Analista de Testes (2014). <br>
 * **PUC-Rio:** Métodos Ágeis de Gerência em Desenvolvimento de Software (2009). <br>
 * **PUC-Rio:** Métodos de Revisão & Teste em Projetos de Software (2004). <br>
-* **PUC-Rio:** Análise Orientada a Objetos com UML 2004.<br>
+* **PUC-Rio:** Análise Orientada a Objetos com UML (2004).<br>
 * **PUC-Rio:** Levantamento de Requisitos de Software - Metodologia JAD (2004).<br>
 * **TI Master/Infnet:** Querying Microsoft SQL Server 2000 with Transact-SQL (2004).<br>
 * **Allen Informática:** Visual Basic 6: (Fundamentals e Development) (2004).<p>
@@ -84,7 +84,9 @@ Veja os tutoriais publicados:
 
 
 ## Eventos:
+* **DATAB - Dashboards, Como Evoluir do Excel para o Power BI :** março 2020 – OnLine. <br>
 * **MVPConf 2019 :** abril 2019 – São Paulo - SP. <br>
 * **V Seminário Big Data Brasil  :** novembro 2018 – Rio de Janeiro - RJ. <br>
 * **Scrum Gathering Rio 2014   :** setembro 2014 – Rio de Janeiro – RJ. <br>
 * **2ª Conferência Latino-Americana sobre Metodologia Ágeis:** 8 e 9 de outubro 2009 em Florianópolis – SC.
+
