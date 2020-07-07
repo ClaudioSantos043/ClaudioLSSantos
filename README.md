@@ -18,9 +18,9 @@ Páginas Web <p>
 * http://hotsite.tvescola.org.br/seguimosconectados/
 <p>
 Aplicativos <p>
-* TV INES <br>
-* TV INES - Primeira Mão <br>
-* TV Escola <br>
+TV INES <br>
+TV INES - Primeira Mão <br>
+TV Escola <br>
 
 
 .
@@ -30,8 +30,6 @@ Aplicativos <p>
 
 **Links:**
 *  [LinkedIn](https://www.linkedin.com/in/claudio-santos-5824b824/)
-* 
-
 
 
 
@@ -42,38 +40,28 @@ Veja os tutoriais publicados:
 
 * **Implementar:** Implementar
 <br>
-* **implementar:** Implementar *
+* **Implementar:** Implementar
+
 
 ## Formação Acadêmica:
-* **Escola Politécnica UFRJ:** MBA em Garantia de Qualidade de Software – (dez/2013); <br>
-* **UFF:** MBA em TV Digital, Radiodifusão e Novas Mídias de Comunicação Eletrônica – (Jul/2011);
- <br>
-* **Universidade Estácio de Sá:** Tecnólogo em Processamento de Dados - (Jun/1996).
-* <p>
-
-
-
-
-
+* **Escola Politécnica UFRJ:** MBA em Garantia de Qualidade de Software – (dez/2013).<br>
+* **UFF:** MBA em TV Digital, Radiodifusão e Novas Mídias de Comunicação Eletrônica – (Jul/2011).<br>
+* **Universidade Estácio de Sá:** Tecnólogo em Processamento de Dados - (Jun/1996). <p>
 
 
 ## Cursos Complementares:
-* **UDACITY:** Fundamentos de Análise de Dados (mai/2019);* <br>
-* **DATAB:** Power BI – Módulos I e II;* <br>
-* **DATAB:** Excel – Básico ao Avançado;* <br>
-* **DATAB:** VBA – Básico ao Avançado;* <br>
-* **Cursos Expert Digital e Udemy:** Google Analytics e Google Data Studio;* <br>
-* **PUC-Rio:** Métodos Ágeis de Gerência em Desenvolvimento de Software;* <br>
-* **PUC-Rio:** Métodos de Revisão & Teste em Projetos de Software;* <br>
-* **PUC-Rio:** Análise Orientada a Objetos com UML.* <p>
-
-
-
-
+* **UDACITY:** Fundamentos de Análise de Dados (mai/2019). <br>
+* **DATAB:** Power BI – Módulos I e II. <br>
+* **DATAB:** Excel – Básico ao Avançado. <br>
+* **DATAB:** VBA – Básico ao Avançado. <br>
+* **Cursos Expert Digital e Udemy:** Google Analytics e Google Data Studio. <br>
+* **PUC-Rio:** Métodos Ágeis de Gerência em Desenvolvimento de Software. <br>
+* **PUC-Rio:** Métodos de Revisão & Teste em Projetos de Software. <br>
+* **PUC-Rio:** Análise Orientada a Objetos com UML.<p>
 
 
 ## Eventos:
-* **MVPConf 2019 :** abril 2019 – São Paulo - SP;* <br>
-* **V Seminário Big Data Brasil  :** novembro 2018 – Rio de Janeiro - RJ;* <br>
-* **Scrum Gathering Rio 2014   :** setembro 2014 – Rio de Janeiro – RJ;* <br>
-* **2ª Conferência Latino-Americana sobre Metodologia Ágeis:** 8 e 9 de outubro 2009 em Florianópolis – SC
+* **MVPConf 2019 :** abril 2019 – São Paulo - SP. <br>
+* **V Seminário Big Data Brasil  :** novembro 2018 – Rio de Janeiro - RJ. <br>
+* **Scrum Gathering Rio 2014   :** setembro 2014 – Rio de Janeiro – RJ. <br>
+* **2ª Conferência Latino-Americana sobre Metodologia Ágeis:** 8 e 9 de outubro 2009 em Florianópolis – SC.
