@@ -34,11 +34,7 @@ Aplicativos <p>
 
 
 ## Projetos:
-Veja os tutoriais publicados:
-* [TV Escola](https://bit.ly/3gzLvyE)
-* [TV Escola - Percursos Educativos](https://bit.ly/38IeygU)
-* **Implementar:** Implementar
-* **Implementar:** Implementar
+Veja os tutoriais publicados
 
 * Power BI<br>
 * [TV Escola](https://bit.ly/3gzLvyE)<br>
@@ -50,9 +46,8 @@ Veja os tutoriais publicados:
 * [TV Escola - Percursos Educativos](https://datastudio.google.com/u/0/reporting/4620b903-c6d6-4812-8cc0-75b4b356c773/page/Ly6EB)<br>
 * [TV Escola - Conexão Escolas](https://datastudio.google.com/u/0/reporting/afaefa9a-8b34-4489-939a-f2814647737e/page/fPZ3)<br>
 * [TV Escola - Seguimos Conectados](https://datastudio.google.com/u/0/reporting/5586e817-19c0-446d-87f6-ba5a715fc36f/page/xIxLB)<br>
-
-
-
+* Implementar:** Implementar
+<br>
 
 
 ## Formação Acadêmica:
