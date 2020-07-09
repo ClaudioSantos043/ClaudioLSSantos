@@ -36,8 +36,9 @@ Aplicativos <p>
 ## Projetos:
 Veja os tutoriais publicados:
 * [TV Escola](https://bit.ly/3gzLvyE)
+* [TV Escola - Percursos Educativos](https://bit.ly/38IeygU)
 * **Implementar:** Implementar
-
+* **Implementar:** Implementar
 
 
 ## Formação Acadêmica:
