@@ -86,10 +86,11 @@ Veja os tutoriais publicados
 
 
 
-
 ## Eventos:
+* **DATAB - 5 passos simples para criar cálculos complexos no Power BI :** julho 2020 – OnLine. <br>
 * **DATAB - Dashboards, Como Evoluir do Excel para o Power BI :** março 2020 – OnLine. <br>
 * **MVPConf 2019 :** abril 2019 – São Paulo - SP. <br>
 * **V Seminário Big Data Brasil  :** novembro 2018 – Rio de Janeiro - RJ. <br>
 * **Scrum Gathering Rio 2014   :** setembro 2014 – Rio de Janeiro – RJ. <br>
 * **2ª Conferência Latino-Americana sobre Metodologia Ágeis:** 8 e 9 de outubro 2009 em Florianópolis – SC.
+
