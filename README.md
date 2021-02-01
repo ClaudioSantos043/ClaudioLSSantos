@@ -16,8 +16,8 @@ As informações são retiradas das seguintes páginas e aplicativos:<p>
 * https://tvescola.org.br <br>
 * http://hotsite.tvescola.org.br/conexaoescolas/ <br>
 * http://hotsite.tvescola.org.br/percursos <br>
-* http://hotsite.tvescola.org.br/seguimosconectados/
-<p>
+* http://hotsite.tvescola.org.br/seguimosconectados/<p>
+
 **Aplicativos** <p>
 
 * TV INES
@@ -33,18 +33,19 @@ As informações são retiradas das seguintes páginas e aplicativos:<p>
 ## Projetos:
 Tutoriais publicados
 
-** Power BI**<br>
+**Power BI**
+
 * [TV Escola](https://bit.ly/3gzLvyE)<br>
 * [TV Escola - Percursos Educativos](https://bit.ly/38IeygU)<br>
 * Implementar:** Implementar
 <br>
 
-** Google DataStudio**<br>
+**Google DataStudio**<br>
 * [TV Escola - Percursos Educativos](https://datastudio.google.com/u/0/reporting/4620b903-c6d6-4812-8cc0-75b4b356c773/page/Ly6EB)<br>
 * [TV Escola - Conexão Escolas](https://datastudio.google.com/u/0/reporting/afaefa9a-8b34-4489-939a-f2814647737e/page/fPZ3)<br>
 * [TV Escola - Seguimos Conectados](https://datastudio.google.com/u/0/reporting/5586e817-19c0-446d-87f6-ba5a715fc36f/page/xIxLB)<br>
-* Implementar:** Implementar
-<br>
+* Implementar:** Implementar<p>
+
 
 
 ## Formação Acadêmica:
@@ -72,16 +73,16 @@ Tutoriais publicados
 * **Allen Informática:** Visual Basic 6: (Fundamentals e Development) (2004).<p>
 
 ## Cursos em andamento:
-Sigmoidal (https://sigmoidal.ai/) <br>
-	** Python do Zero para Data Science.<br>
-	** Data Science na Prática. <br>
-	** Ambos cursos são desenvolvidos na ferramenta Google Colab.<br>
-ByLearn (https://www.bylearn.com.br/) <br>
-	** Python para Data Science. Exemplos trabalhados na ferramenta Jupyter Notebook <br>
+* **Sigmoidal (https://sigmoidal.ai/)** <br>
+	* Python do Zero para Data Science.<br>
+	* Data Science na Prática. <br>
+	**Ambos cursos são desenvolvidos na ferramenta Google Colab.**<br>
+* **ByLearn (https://www.bylearn.com.br/)** <br>
+	**Python para Data Science. Exemplos trabalhados na ferramenta Jupyter Notebook.** <br>
 	
 
 ## Eventos:
-* ** MVPConf 2020:** dezembro 2020 – OnLine <Br>
+* **MVPConf 2020:** dezembro 2020 – OnLine <Br>
 * **DATAB - 5 passos simples para criar cálculos complexos no Power BI :** julho 2020 – OnLine. <br>
 * **DATAB - Dashboards, Como Evoluir do Excel para o Power BI :** março 2020 – OnLine. <br>
 * **MVPConf 2019 :** abril 2019 – São Paulo - SP. <br>
