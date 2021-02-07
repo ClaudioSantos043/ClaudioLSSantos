@@ -8,7 +8,7 @@ Atualmente, trabalho para empresa ACERP, nos últimos 17 anos. <br>
 Por esta empresa, desenvolvi trabalhos de análise e desenvolvimento de sistemas, testes de sistemas e aplicativos.<p>
 Os últimos 4 anos, o foco foi em análise de dados de nossas páginas web e aplicativos.<p>
 As informações são extraídas do Google Analytics e de fornecedores que encaminham os dados.<p> 
-os dados são tratados na ferramenta Excel. Após o tratamento, os dados são inseridos na ferramenta Power Point e disponibilizada para os gestores na ferramenta MS Sharepoint.<p>
+Os dados são tratados na ferramenta Excel. Após o tratamento, os dados são inseridos na ferramenta Power Point e disponibilizada para os gestores na ferramenta MS Sharepoint.<p>
 Com aumento da demanda e com mais conhecimento, começamos a trabalhar com Power BI e linguagem DAX e Google Data Studio. Essas ferramentas são conectadas ao Google Analytics e ao Excel.<p>
 
 As informações são retiradas das seguintes páginas e aplicativos:<p>
@@ -33,12 +33,13 @@ As informações são retiradas das seguintes páginas e aplicativos:<p>
 
 
 ## Projetos:
- Atualmente estou matriculado e cursando Python e Data Science na Prática (https://sigmoidal.ai/). Segue exemplo de projeto realizado. <br>
+ Atualmente estou matriculado e cursando Python e Data Science na Prática (https://sigmoidal.ai/). <br>
+ Segue exemplo de projeto realizado. <br>
  https://github.com/ClaudioSantos043/template_portfolio/blob/master/Airbnb_Sydney_Analise_Dados.ipynb  <br>
 
-* Trabalho desenvolvido na ACERP (resultado final).<br>
+* Exemplo de trabalho desenvolvido na ACERP (resultado final).<br>
 https://github.com/ClaudioSantos043/ClaudioLSSantos/blob/master/Audiencia_Digital_TVINES_201912_DEZ-%20v01.pdf
-
+<br>
 
 
 **Power BI**
