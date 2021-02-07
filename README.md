@@ -7,7 +7,7 @@
 Atualmente, trabalho para empresa ACERP, nos últimos 17 anos. <br>
 Por esta empresa, desenvolvi trabalhos de desenvolvimento e análise de sistemas, testes de sistemas e aplicativos e nos últimos 4 anos trabalho com análise de dados de nossas páginas na web e aplicativos.<p>
 As informações são extraídas do Google Analytics e de fornecedores que encaminham dados através de planilha excel ou arquivo .Doc. Essas informações são trabalhadas na ferramenta Excel e apresentadas em Power Point.<p>
-Com aumento da demanda e com mais conhecimento, começamos a trabalhar com Power BI e linguagem DAX e Google Data Studio. Essas ferramentas são conectadas ao Google Analytics e ao Excel.<p>
+Com aumento da demandas e com mais conhecimento, começamos a trabalhar com Power BI e linguagem DAX e Google Data Studio. Essas ferramentas são conectadas ao Google Analytics e ao Excel.<p>
 
 As informações são retiradas das seguintes páginas e aplicativos:<p>
 
