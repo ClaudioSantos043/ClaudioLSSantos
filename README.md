@@ -37,7 +37,7 @@ As informações são retiradas das seguintes páginas e aplicativos:<p>
  * Exemplo de projeto realizado. <br>
  https://github.com/ClaudioSantos043/template_portfolio/blob/master/Airbnb_Sydney_Analise_Dados.ipynb  <br>
 
- ** Exemplos de trabalhos desenvolvidos na ACERP **
+ **Exemplos de trabalhos desenvolvidos na ACERP**
 
 * Resultado em Power Point (PDF).<br>
 https://github.com/ClaudioSantos043/ClaudioLSSantos/blob/master/Audiencia_Digital_TVINES_201912_DEZ-%20v01.pdf
