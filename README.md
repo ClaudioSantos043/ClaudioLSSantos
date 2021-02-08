@@ -1,6 +1,6 @@
 
 <p align="center">
-<img src="banner01.jpg" height="100%" width="100%"> 
+<img src="banner02.png"> 
 </p>
 
 # Cláudio Luís Da Silva Santos
