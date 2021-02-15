@@ -43,7 +43,6 @@ As informações são retiradas das seguintes páginas e aplicativos:<p>
 https://github.com/ClaudioSantos043/ClaudioLSSantos/blob/master/Audiencia_Digital_TVINES_201912_DEZ-%20v01.pdf
 <br>
 
-
 **Power BI**
 
 * [TV Escola](https://bit.ly/3gzLvyE)<br>
@@ -92,13 +91,12 @@ https://github.com/ClaudioSantos043/ClaudioLSSantos/blob/master/Audiencia_Digita
 	**Python para Data Science. Exemplos trabalhados na ferramenta Jupyter Notebook.** <br>
 * **Comunidade de Estatística do Prof. Thiago Marques (https://comunidadeestatistica.landen.co/)** <br>
 	
-
 ## Eventos:
-* **MVPConf 2020:** dezembro 2020 – OnLine <Br>
+* **DATAB - Workshop A Profissão da Década :** fevereiro 2021 - OnLine.<br>
+* **MVPConf 2020: ** dezembro 2020 - OnLine <Br>
 * **DATAB - 5 passos simples para criar cálculos complexos no Power BI :** julho 2020 – OnLine. <br>
 * **DATAB - Dashboards, Como Evoluir do Excel para o Power BI :** março 2020 – OnLine. <br>
 * **MVPConf 2019 :** abril 2019 – São Paulo - SP. <br>
 * **V Seminário Big Data Brasil  :** novembro 2018 – Rio de Janeiro - RJ. <br>
 * **Scrum Gathering Rio 2014   :** setembro 2014 – Rio de Janeiro – RJ. <br>
 * **2ª Conferência Latino-Americana sobre Metodologia Ágeis:** 8 e 9 de outubro 2009 em Florianópolis – SC.
-
