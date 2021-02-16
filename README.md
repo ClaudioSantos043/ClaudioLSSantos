@@ -45,6 +45,9 @@ https://github.com/ClaudioSantos043/ClaudioLSSantos/blob/master/Audiencia_Digita
 
 **Power BI**
 
+
+* Este Link é um exemplo do que pode ser informado. https://bit.ly/2Nau0Mi
+
 * [TV Escola](https://bit.ly/3gzLvyE)<br>
 * [TV Escola - Percursos Educativos](https://bit.ly/38IeygU)<br>
 * Implementar:** Implementar
