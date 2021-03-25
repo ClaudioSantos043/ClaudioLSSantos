@@ -100,8 +100,8 @@ As informações são retiradas das seguintes páginas e aplicativos:<p>
 	
 
 ## Eventos:
-* **Comunidade de Estatística 
-	* Maratona de Estatística, Pesquisa Operacional e CiÊncia de Dados.* 01 a 25 março 2021 - OnLine.<br>
+* **Comunidade de Estatística** <br>
+	* Maratona de Estatística, Pesquisa Operacional e Ciência de Dados.* 01 a 25 março 2021 - OnLine.<br>
 * **DATAB - Workshop A Profissão da Década:** fevereiro 2021 - OnLine. <br>
 * **MVPConf 2020:** dezembro 2020 – OnLine <Br>
 * **DATAB - 5 passos simples para criar cálculos complexos no Power BI :** julho 2020 – OnLine. <br>
