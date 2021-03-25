@@ -100,7 +100,7 @@ As informações são retiradas das seguintes páginas e aplicativos:<p>
 	
 
 ## Eventos:
-* **Comunidade de Estatística** <br>
+* **Comunidade de Estatística do Prof. Thiago Marques** <br>
 	* Maratona de Estatística, Pesquisa Operacional e Ciência de Dados.* 01 a 25 março 2021 - OnLine.<br>
 * **DATAB - Workshop A Profissão da Década:** fevereiro 2021 - OnLine. <br>
 * **MVPConf 2020:** dezembro 2020 – OnLine <Br>
