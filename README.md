@@ -1,4 +1,4 @@
-
+﻿
 <p align="center">
 <img src="banner02.png" >
 </p>
@@ -27,7 +27,7 @@ As informações são retiradas das seguintes páginas e aplicativos:<p>
 **Experiência em:** Google Data Studio, MS Power BI, DAX e Excel.<p>
 
 **Links:**
-*  [LinkedIn](https://www.linkedin.com/in/claudio-santos-5824b824/)<p>
+*  [LinkedIn](https://www.linkedin.com/in/claudio-luis-da-silva-santos/)<p>
 
 
 ## Projetos:
@@ -89,6 +89,8 @@ As informações são retiradas das seguintes páginas e aplicativos:<p>
 
 
 ## Cursos em andamento:
+* **Comunidade de Estatística do Prof. Thiago Marques (https://www.estatidados.com.br/)** <br>
+	* Comunidade de Estatística do Prof. Thiago Marques.<br>
 * **Sigmoidal (https://sigmoidal.ai/)** <br>
 	* Python do Zero para Data Science.<br>
 	* Data Science na Prática. <br>
@@ -98,6 +100,8 @@ As informações são retiradas das seguintes páginas e aplicativos:<p>
 	
 
 ## Eventos:
+* **Comunidade de Estatística 
+	* Maratona de Estatística, Pesquisa Operacional e CiÊncia de Dados.* 01 a 25 março 2021 - OnLine.<br>
 * **DATAB - Workshop A Profissão da Década:** fevereiro 2021 - OnLine. <br>
 * **MVPConf 2020:** dezembro 2020 – OnLine <Br>
 * **DATAB - 5 passos simples para criar cálculos complexos no Power BI :** julho 2020 – OnLine. <br>
