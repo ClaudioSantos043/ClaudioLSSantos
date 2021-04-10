@@ -75,24 +75,24 @@ As informações são retiradas das seguintes páginas e aplicativos:<p>
 ## Cursos Complementares:
 * **SQLBI:** Introdução DAX - OnLine (2020). <br>
 * **UDACITY:** Fundamentos de Análise de Dados (2019). <br>
-* **DATAB:
+* **DATAB:**
 	* Power BI – Módulos I e II (2018).<br>
-*   * Excel – Básico ao Avançado (2019). <br>
-*   * VBA – Básico ao Avançado (2020). <br>
-* **Cursos Expert Digital e Udemy:
+    * Excel – Básico ao Avançado (2019). <br>
+    * VBA – Básico ao Avançado (2020). <br>
+* **Cursos Expert Digital e Udemy:**
     * Google Analytics e Google Data Studio (2019). <br>
 * **Learning365:** Sharepoint 2013 para Power Users. <br>
 * **ITeste:** Formação de Analista de Testes (2014). <br>
-* **PUC-Rio (CCE):
+* **PUC-Rio (CCE):**
    * Métodos Ágeis de Gerência em Desenvolvimento de Software (2009). <br>
-*  * Métodos de Revisão & Teste em Projetos de Software (2004). <br>
-*  * Análise Orientada a Objetos com UML (2004).<br>
-*  * Projeto de Software Orientado a Componentes com UML (2007). <br>	
-*  * Levantamento de Requisitos de Software - Metodologia JAD (2004).<br>
-*  * Linguagem de 4ª Geração Visual Basic (2001).<br>
+   * Métodos de Revisão & Teste em Projetos de Software (2004). <br>
+   * Análise Orientada a Objetos com UML (2004).<br>
+   * Projeto de Software Orientado a Componentes com UML (2007). <br>	
+   * Levantamento de Requisitos de Software - Metodologia JAD (2004).<br>
+   * Linguagem de 4ª Geração Visual Basic (2001).<br>
 * **TI Master/Infnet:** Querying Microsoft SQL Server 2000 with Transact-SQL (2004).<br>
 * **Allen Informática:** Visual Basic 6: (Fundamentals e Development) (2004).<br>
-* **INFNET:
+* **INFNET:**
 	* Desenvolvimento de Aplicações Web (2001). <br>
 	* ASP (2001). <br> 
 * **ACERP:** Comunicação e Relacionamento Interpessoal (2006).
@@ -115,13 +115,13 @@ As informações são retiradas das seguintes páginas e aplicativos:<p>
 	
 
 ## Eventos:
-* **Comunidade de Estatística 
+* **Comunidade de Estatística**
 	* Maratona de Estatística, Pesquisa Operacional e Ciência de Dados.** 01 a 30 março 2021 - OnLine.<br>
-* **DATAB
+* **DATAB**
 	* Workshop A Profissão da Década:** fevereiro 2021 - OnLine. <br>
 	* 5 passos simples para criar cálculos complexos no Power BI :** julho 2020 – OnLine. <br>
     * Dashboards, Como Evoluir do Excel para o Power BI :** março 2020 – OnLine. <br>
-* **MVPConf 
+* **MVPConf**
     * 2020:** dezembro 2020 – OnLine <Br>
     * 2019 :** abril 2019 – São Paulo - SP. <br>
 * **V Seminário Big Data Brasil  :** novembro 2018 – Rio de Janeiro - RJ. <br>
