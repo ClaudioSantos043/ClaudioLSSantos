@@ -60,7 +60,7 @@ As informações são retiradas das seguintes páginas e aplicativos:<p>
 * Desenvolvimento de Acompanhamento de Processos.<br>
 * Levantamento de Requisitos para substituir a ferramanta que gerenciava o processo de conteúdo da TV Brasil.<br>
 * Treinamento da ferramenta Excel para funcionários da empresa<br>
-* Apoio aos usuários da ferramenta ERP (MXM Sistemas).<p>
+* Apoio aos usuários da ferramenta ERP (MXM Sistemas).<p><p>
 
 
 ## Formação Acadêmica:
@@ -68,7 +68,7 @@ As informações são retiradas das seguintes páginas e aplicativos:<p>
 * **MBA** em TV Digital, Radiodifusão e Novas Mídias de Comunicação Eletrônica pela UFF: (2011).<br>
 * **Extensão** em Formação de Programadores pela UFRJ/NCE - Núcleo Computação Eletrônica: (2003).<br>
 * **Graduação** em Tecnólogo em Processamento de Dados pela UNESA (Universidade Estácio de Sá): (1996). <br>
-* **Técnico** em Eletrônica pela Escola Técnica 1º de Maio: (1988)<p>
+* **Técnico** em Eletrônica pela Escola Técnica 1º de Maio: (1988)<p><p>
 
 
 ## Cursos Complementares:
@@ -96,7 +96,7 @@ As informações são retiradas das seguintes páginas e aplicativos:<p>
 	* Desenvolvimento de Aplicações Web (2001). <br>
 	* ASP (2001). <br> 
 * **ACERP:** Comunicação e Relacionamento Interpessoal (2006).
-<p>
+<p><p>
 
 
 ## Cursos em andamento:
@@ -111,7 +111,7 @@ As informações são retiradas das seguintes páginas e aplicativos:<p>
 * **ByLearn (https://www.bylearn.com.br/)** <br>
 	* Python para Data Science. Exemplos trabalhados na ferramenta Jupyter Notebook. <br>
 * **Túlio Melibeu** <br>
-	* DAX Pro. <p>
+	* DAX Pro. <p><p>
 	
 
 ## Eventos:
