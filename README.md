@@ -80,7 +80,8 @@ As informações são retiradas das seguintes páginas e aplicativos:<p>
     * Excel – Básico ao Avançado (2019). <br>
     * VBA – Básico ao Avançado (2020). <br>
 * **Cursos Expert Digital e Udemy:**
-    * Google Analytics e Google Data Studio (2019). <br>
+    * Google Analytics (2019). <br>
+	* Google Data Studio (2019). <br>
 * **Learning365:** Sharepoint 2013 para Power Users. <br>
 * **ITeste:** Formação de Analista de Testes (2014). <br>
 * **PUC-Rio (CCE):**
@@ -122,8 +123,8 @@ As informações são retiradas das seguintes páginas e aplicativos:<p>
 	* 5 passos simples para criar cálculos complexos no Power BI :** julho 2020 – OnLine. <br>
     * Dashboards, Como Evoluir do Excel para o Power BI :** março 2020 – OnLine. <br>
 * **MVPConf**
-    * 2020:** dezembro 2020 – OnLine <Br>
-    * 2019 :** abril 2019 – São Paulo - SP. <br>
+    * 2020 - dezembro 2020 – OnLine <Br>
+    * 2019 - abril 2019 – São Paulo - SP. <br>
 * **V Seminário Big Data Brasil  :** novembro 2018 – Rio de Janeiro - RJ. <br>
 * **Scrum Gathering Rio 2014   :** setembro 2014 – Rio de Janeiro – RJ. <br>
 * **2ª Conferência Latino-Americana sobre Metodologia Ágeis:** 8 e 9 de outubro 2009 em Florianópolis – SC.
