@@ -117,15 +117,15 @@ As informações são retiradas das seguintes páginas e aplicativos:<p>
 
 ## Eventos:
 * **Comunidade de Estatística**
-	* Maratona de Estatística, Pesquisa Operacional e Ciência de Dados.** 01 a 30 março 2021 - OnLine.<br>
+	* Maratona de Estatística, Pesquisa Operacional e Ciência de Dados: Mar/2021 - OnLine.<br>
 * **DATAB**
-	* Workshop A Profissão da Década:** fevereiro 2021 - OnLine. <br>
-	* 5 passos simples para criar cálculos complexos no Power BI :** julho 2020 – OnLine. <br>
-    * Dashboards, Como Evoluir do Excel para o Power BI :** março 2020 – OnLine. <br>
+	* Workshop A Profissão da Década: Fev/2021 - OnLine. <br>
+	* 5 passos simples para criar cálculos complexos no Power BI: Jul/2020 – OnLine. <br>
+    * Dashboards, Como Evoluir do Excel para o Power BI: Mar/2020 – OnLine. <br>
 * **MVPConf**
-    * 2020 - dezembro 2020 – OnLine <Br>
-    * 2019 - abril 2019 – São Paulo - SP. <br>
-* **V Seminário Big Data Brasil  :** novembro 2018 – Rio de Janeiro - RJ. <br>
-* **Scrum Gathering Rio 2014   :** setembro 2014 – Rio de Janeiro – RJ. <br>
-* **2ª Conferência Latino-Americana sobre Metodologia Ágeis:** 8 e 9 de outubro 2009 em Florianópolis – SC.
+    * 2020: Dez/2020 – OnLine. <br>
+    * 2019: Abr/2019 – São Paulo - SP. <br>
+* **V Seminário Big Data Brasil  :** Nov/2018 – Rio de Janeiro - RJ. <br>
+* **Scrum Gathering Rio 2014   :** Set/2014 – Rio de Janeiro – RJ. <br>
+* **2ª Conferência Latino-Americana sobre Metodologia Ágeis:** Out/2009 em Florianópolis – SC.
 
