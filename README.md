@@ -64,13 +64,11 @@ As informações são retiradas das seguintes páginas e aplicativos:<p>
 
 
 ## Formação Acadêmica:
-* **Escola Politécnica UFRJ:** MBA em Garantia de Qualidade de Software – (2013).<br>
-* **UFF:** MBA em TV Digital, Radiodifusão e Novas Mídias de Comunicação Eletrônica – (2011).<br>
-* **Universidade Estácio de Sá:** Tecnólogo em Processamento de Dados - (1996). <p>
+* **MBA** em  Garantia de Qualidade de Software pela Escola Politécnica UFRJ: (2013).<br>
+* **MBA** em TV Digital, Radiodifusão e Novas Mídias de Comunicação Eletrônica pela UFF: (2011).<br>
+* **Extensão** em Formação de Programadores pela UFRJ/NCE - Núcleo Computação Eletrônica: (2003).<br>
+* **Graduação** em Tecnólogo em Processamento de Dados pela UNESA (Universidade Estácio de Sá)- (1996). <p>
 
-
-## Curso de Extensão:
-* **UFRJ/NCE - Núcleo Computação Eletrônica:** Formação de Programadores – (2003).<br>
 
 ## Cursos Complementares:
 * **SQLBI:** Introdução DAX - OnLine (2020). <br>
@@ -124,8 +122,8 @@ As informações são retiradas das seguintes páginas e aplicativos:<p>
     * Dashboards, Como Evoluir do Excel para o Power BI: Mar/2020 – OnLine. <br>
 * **MVPConf**
     * 2020: Dez/2020 – OnLine. <br>
-    * 2019: Abr/2019 – São Paulo - SP. <br>
-* **V Seminário Big Data Brasil  :** Nov/2018 – Rio de Janeiro - RJ. <br>
-* **Scrum Gathering Rio 2014   :** Set/2014 – Rio de Janeiro – RJ. <br>
-* **2ª Conferência Latino-Americana sobre Metodologia Ágeis:** Out/2009 em Florianópolis – SC.
+    * 2019: Abr/2019 – São Paulo/SP. <br>
+* **V Seminário Big Data Brasil  :** Nov/2018 – Rio de Janeiro/RJ. <br>
+* **Scrum Gathering Rio 2014   :** Set/2014 – Rio de Janeiro/RJ. <br>
+* **2ª Conferência Latino-Americana sobre Metodologia Ágeis:** Out/2009 - Florianópolis/SC.
 
