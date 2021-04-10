@@ -67,7 +67,8 @@ As informações são retiradas das seguintes páginas e aplicativos:<p>
 * **MBA** em  Garantia de Qualidade de Software pela Escola Politécnica UFRJ: (2013).<br>
 * **MBA** em TV Digital, Radiodifusão e Novas Mídias de Comunicação Eletrônica pela UFF: (2011).<br>
 * **Extensão** em Formação de Programadores pela UFRJ/NCE - Núcleo Computação Eletrônica: (2003).<br>
-* **Graduação** em Tecnólogo em Processamento de Dados pela UNESA (Universidade Estácio de Sá)- (1996). <p>
+* **Graduação** em Tecnólogo em Processamento de Dados pela UNESA (Universidade Estácio de Sá): (1996). <br>
+* **Técnico** em Eletrônica pela Escola Técnica 1º de Maio: (1988)<p>
 
 
 ## Cursos Complementares:
