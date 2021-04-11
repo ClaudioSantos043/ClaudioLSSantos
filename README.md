@@ -44,14 +44,14 @@ As informações são extraídas dos endereços abaixo e outros dados são encam
 ## Projetos:
  Atualmente estou matriculado e cursando Python e Data Science na Prática (https://sigmoidal.ai/). <br>
  * Exemplo de projeto realizado. <br>
- [Projeto Airbnb](https://bit.ly/3qs4osv)  <br>
+ [Projeto Airbnb](https://bit.ly/3qs4osv) <br>
 
 
 **ACERP** - Exemplos de trabalhos desenvolvidos em análise de dados.<p>
 * **Em Power BI**<br>
-	* TV INES <br>
-	* TV INES - Primeira Mão <br>
-	* TV Escola <br>
+	* TV INES 
+	* TV INES - Primeira Mão 
+	* TV Escola
 	* Percursos Educativos <p>
 
 	* [Exemplo Power BI](https://bit.ly/2Nau0Mi)<p>
