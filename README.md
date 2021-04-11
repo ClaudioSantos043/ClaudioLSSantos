@@ -19,7 +19,8 @@ Condução de análises e tratativas de dados internos e externos; extraídos do
 * Condução de treinamentos e orientações de usuários para alinhar rotinas e garantir o correto uso das aplicações e das funcionalidades do sistema.
 <p>
 
-As informações são retiradas das seguintes páginas e aplicativos:<p>
+Desde 2016 trabalho efetivamente com análise de dados. <br>
+As informações são extraídas dos endereços abaixo e outros dados são encaminhados por fornecedores externos.<p>
 
 **Páginas Web** <p>
 * https://tvines.org.br <br>
