@@ -1,9 +1,8 @@
 ﻿
 <p align="center">
-<img src="banner02.png" >
+<img src="banner05.png" >
 </p>
 
-# Cláudio Luís Da Silva Santos
 ## Qualificação Profissional
 Vivência na extração, análise e tratativa de dados, apontando desvios, consolidando relatórios gerenciais e planilhas de controle (Excel, Power BI, VBA). Levantamento de requisitos, execução de testes e modelagens processuais – construindo manuais e aplicando controles para alavancar performance e otimizar operações de sistemas financeiros, controle de custos e rotinas.<p>
 
