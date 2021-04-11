@@ -15,7 +15,7 @@ Condução de análises e tratativas de dados internos e externos; extraídos do
 <p>
 
 **Destaques | resultados:**
-* Participação no projeto de concepção e implantação do sistema de gestão integrada para gerenciamento do conteúdo da TV Brasil;<br>
+* Participação no projeto de concepção e implantação do sistema de gestão integrada para gerenciamento do conteúdo da TV Brasil;
 * Condução de treinamentos e orientações de usuários para alinhar rotinas e garantir o correto uso das aplicações e das funcionalidades do sistema.
 <p>
 
@@ -23,10 +23,10 @@ Desde 2016 trabalho efetivamente com análise de dados. <br>
 As informações são extraídas dos endereços abaixo e outros dados são encaminhados por fornecedores externos.<p>
 
 **Páginas Web** <p>
-* https://tvines.org.br <br>
-* https://tvescola.org.br <br>
-* http://hotsite.tvescola.org.br/conexaoescolas/ <br>
-* http://hotsite.tvescola.org.br/percursos <br>
+* https://tvines.org.br
+* https://tvescola.org.br
+* http://hotsite.tvescola.org.br/conexaoescolas/ 
+* http://hotsite.tvescola.org.br/percursos 
 * http://hotsite.tvescola.org.br/seguimosconectados/<p>
 
 **Aplicativos** <p>
@@ -43,7 +43,7 @@ As informações são extraídas dos endereços abaixo e outros dados são encam
 
 ## Projetos:
  Atualmente estou matriculado e cursando Python e Data Science na Prática (https://sigmoidal.ai/). <br>
- * Exemplo de projeto realizado. <br>
+ * Exemplo de projeto realizado.
  [Projeto Airbnb](https://bit.ly/3qs4osv) <br>
 
 
@@ -60,8 +60,8 @@ As informações são extraídas dos endereços abaixo e outros dados são encam
 	* [Exemplo Power Point/PDF](https://bit.ly/2ZrYjAp)<p>
 
 * **Google DataStudio**<br>
-	* [TV Escola - Percursos Educativos](https://datastudio.google.com/u/0/reporting/4620b903-c6d6-4812-8cc0-75b4b356c773/page/Ly6EB)<br>
-	* [TV Escola - Conexão Escolas](https://datastudio.google.com/u/0/reporting/afaefa9a-8b34-4489-939a-f2814647737e/page/fPZ3)<br>
+	* [TV Escola - Percursos Educativos](https://datastudio.google.com/u/0/reporting/4620b903-c6d6-4812-8cc0-75b4b356c773/page/Ly6EB)
+	* [TV Escola - Conexão Escolas](https://datastudio.google.com/u/0/reporting/afaefa9a-8b34-4489-939a-f2814647737e/page/fPZ3)
 	* [TV Escola - Seguimos Conectados](https://datastudio.google.com/u/0/reporting/5586e817-19c0-446d-87f6-ba5a715fc36f/page/xIxLB)<p>
 
 
