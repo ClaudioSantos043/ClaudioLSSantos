@@ -48,7 +48,7 @@ As informações são extraídas dos endereços abaixo e outros dados são encam
 
 
 **ACERP** - Exemplos de trabalhos desenvolvidos em análise de dados.<p>
-* **Em Power BI**<br>
+* **Em Power BI**
 	* TV INES 
 	* TV INES - Primeira Mão 
 	* TV Escola
@@ -56,7 +56,7 @@ As informações são extraídas dos endereços abaixo e outros dados são encam
 
 	* [Exemplo Power BI](https://bit.ly/2Nau0Mi)<p>
 
-* **Em Power Point / PDF**<br>
+* **Em Power Point / PDF**
 	* [Exemplo Power Point/PDF](https://bit.ly/2ZrYjAp)<p>
 
 * **Google DataStudio.**
