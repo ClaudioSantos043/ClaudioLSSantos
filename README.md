@@ -4,10 +4,21 @@
 </p>
 
 # Cláudio Luís Da Silva Santos
-Atualmente, trabalho para empresa ACERP, nos últimos 17 anos. <br>
-Por esta empresa, desenvolvi trabalhos de desenvolvimento e análise de sistemas, testes de sistemas e aplicativos e nos últimos 4 anos trabalho com análise de dados de nossas páginas na web e aplicativos.<p>
-As informações são extraídas do Google Analytics e de fornecedores que encaminham dados através de planilha excel ou arquivo .Doc. Essas informações são trabalhadas na ferramenta Excel e apresentadas em Power Point.<p>
-Com aumento da demanda e com mais conhecimento, começamos a trabalhar com Power BI e linguagem DAX e Google Data Studio. Essas ferramentas são conectadas ao Google Analytics e ao Excel.<p>
+## Qualificação Profissional
+Vivência na extração, análise e tratativa de dados, apontando desvios, consolidando relatórios gerenciais e planilhas de controle (Excel, Power BI, VBA). Levantamento de requisitos, execução de testes e modelagens processuais – construindo manuais e aplicando controles para alavancar performance e otimizar operações de sistemas financeiros, controle de custos e rotinas.<p>
+
+Destacando conhecimentos em Análise de Dados; metodologias de gestão ágeis e bancos de dados (Sql Server, MySQL e MS Access).
+
+## Experiência Profissional
+**Experiência Profissional**
+**ACERP (ROQUETTE PINTO). Período:** 2004 | Atual. **Cargo:** Analista de Desenvolvimento.<br>
+Condução de análises e tratativas de dados internos e externos; extraídos do Google Analytics. Levantamento de requisitos, condução de testes e consolidação de relatórios de controle – Excel; Power BI e Google Data Studio; apontando desvios, propondo planos de ação e adequações de processos; estruturando manuais de controle. Adoção de metodologias ágeis de gestão, participando de projetos de melhoria.  Desenvolvimento de soluções e aplicações de controle de custos e processos, adotando Visual Studio 2005 | Visual Basic 6. 
+<p>
+
+**Destaques | resultados:**
+* Participação no projeto de concepção e implantação do sistema de gestão integrada para gerenciamento do conteúdo da TV Brasil;<br>
+* Condução de treinamentos e orientações de usuários para alinhar rotinas e garantir o correto uso das aplicações e das funcionalidades do sistema.
+<p>
 
 As informações são retiradas das seguintes páginas e aplicativos:<p>
 
@@ -72,7 +83,8 @@ As informações são retiradas das seguintes páginas e aplicativos:<p>
 
 
 ## Cursos Complementares:
-* **SQLBI:** Introdução DAX - OnLine (2020). <br>
+* **BI do Brasil** DAX Avançado (2020).                <br>
+* **SQLBI:** Introdução DAX - OnLine (2020).           <br>
 * **UDACITY:** Fundamentos de Análise de Dados (2019). <br>
 * **DATAB:**
 	* Power BI – Módulos I e II (2018).<br>
