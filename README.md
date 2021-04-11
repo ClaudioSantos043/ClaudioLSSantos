@@ -65,15 +65,6 @@ As informações são extraídas dos endereços abaixo e outros dados são encam
 	* [TV Escola - Seguimos Conectados](https://datastudio.google.com/u/0/reporting/5586e817-19c0-446d-87f6-ba5a715fc36f/page/xIxLB)<p>
 
 
-## Trabalhos desenvolvidos ao longo dos 17 anos de empresa:
-* Desenvolvimento de Sistema de Custos.<br>
-* Desenvolvimento de Cadastro de Filmes.<br>
-* Desenvolvimento de Acompanhamento de Processos.<br>
-* Levantamento de Requisitos para substituir a ferramanta que gerenciava o processo de conteúdo da TV Brasil.<br>
-* Treinamento da ferramenta Excel para funcionários da empresa<br>
-* Apoio aos usuários da ferramenta ERP (MXM Sistemas).<p><p>
-
-
 ## Formação Acadêmica:
 * **MBA** em  Garantia de Qualidade de Software pela Escola Politécnica UFRJ: (2013).<br>
 * **MBA** em TV Digital, Radiodifusão e Novas Mídias de Comunicação Eletrônica pela UFF: (2011).<br>
@@ -139,4 +130,3 @@ As informações são extraídas dos endereços abaixo e outros dados são encam
 * **V Seminário Big Data Brasil  :** Nov/2018 – Rio de Janeiro/RJ. <br>
 * **Scrum Gathering Rio 2014   :** Set/2014 – Rio de Janeiro/RJ. <br>
 * **2ª Conferência Latino-Americana sobre Metodologia Ágeis:** Out/2009 - Florianópolis/SC.
-
