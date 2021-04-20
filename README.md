@@ -103,6 +103,8 @@ As informações são extraídas dos endereços abaixo e outros dados são encam
 
 
 ## Cursos em desenvolvimento:
+* **Udemy**
+	* Aprendendo Microsoft SQL Server Integrations Services - SSIS
 * **Professora Fernanda Maciel (https://www.proffernandamaciel.com/curso)** <br>
 	* Estatística para Ciência de Dados e Business Analytics. <br>
 	* Período: 08/04/2021 a 27/05/2021. <br>
