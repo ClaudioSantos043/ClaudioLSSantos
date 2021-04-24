@@ -75,8 +75,8 @@ As informações são extraídas dos endereços abaixo e outros dados são encam
 
 ## Cursos Complementares:
 * **Udemy**
-	* Aprendendo Microsoft SQL Server Integrations Services - SSIS
-		* Curso básico e leitura <br> 
+	* Aprendendo Microsoft SQL Server Integrations Services - SSIS (2021).
+		* Curso básico e leitura para conhecimento desta ferramenta. <br> 
 * **BI do Brasil** DAX Avançado (2020).                <br>
 * **SQLBI:** Introdução DAX - OnLine (2020).           <br>
 * **UDACITY:** Fundamentos de Análise de Dados (2019). <br>
