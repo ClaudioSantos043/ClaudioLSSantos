@@ -74,6 +74,9 @@ As informações são extraídas dos endereços abaixo e outros dados são encam
 
 
 ## Cursos Complementares:
+* **Udemy**
+	* Aprendendo Microsoft SQL Server Integrations Services - SSIS
+		* Curso básico e leitura <br> 
 * **BI do Brasil** DAX Avançado (2020).                <br>
 * **SQLBI:** Introdução DAX - OnLine (2020).           <br>
 * **UDACITY:** Fundamentos de Análise de Dados (2019). <br>
@@ -103,8 +106,6 @@ As informações são extraídas dos endereços abaixo e outros dados são encam
 
 
 ## Cursos em desenvolvimento:
-* **Udemy**
-	* Aprendendo Microsoft SQL Server Integrations Services - SSIS
 * **Professora Fernanda Maciel (https://www.proffernandamaciel.com/curso)** <br>
 	* Estatística para Ciência de Dados e Business Analytics. <br>
 	* Período: 08/04/2021 a 27/05/2021. <br>
