@@ -87,7 +87,7 @@ As informações são extraídas dos endereços abaixo e outros dados são encam
 * **Cursos Expert Digital e Udemy:**
     * Google Analytics (2019). <br>
 	* Google Data Studio (2019). <br>
-* **Learning365:** Sharepoint 2013 para Power Users. <br>
+* **Learning365:** Sharepoint 2013 para Power Users (2015). <br>
 * **ITeste:** Formação de Analista de Testes (2014). <br>
 * **PUC-Rio (CCE):**
    * Métodos Ágeis de Gerência em Desenvolvimento de Software (2009). <br>
@@ -106,6 +106,8 @@ As informações são extraídas dos endereços abaixo e outros dados são encam
 
 
 ## Cursos em desenvolvimento:
+* **Udemy**
+	* Azure Databases para Iniciantes. <br>
 * **Professora Fernanda Maciel (https://www.proffernandamaciel.com/curso)** <br>
 	* Estatística para Ciência de Dados e Business Analytics. <br>
 	* Período: 08/04/2021 a 27/05/2021. <br>
