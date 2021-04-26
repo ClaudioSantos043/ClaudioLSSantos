@@ -1,6 +1,6 @@
 ﻿
 <p align="center">
-<img src="banner05.png" >
+<img src="banner05.png" height="10" width="80">>
 </p>
 
 ## Qualificação Profissional
