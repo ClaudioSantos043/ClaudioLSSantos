@@ -23,7 +23,7 @@ Desde 2016 trabalho efetivamente com análise de dados. <br>
 As informações são extraídas dos endereços abaixo e outros dados são encaminhados por fornecedores externos.<p>
 
 **Páginas Web** <p>
-* https://tvines.org.br
+* <img src="banner05.png" height="50" width="100"> https://tvines.org.br
 * https://tvescola.org.br
 * http://hotsite.tvescola.org.br/conexaoescolas/ 
 * http://hotsite.tvescola.org.br/percursos 
