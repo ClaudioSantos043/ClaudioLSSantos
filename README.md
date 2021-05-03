@@ -45,10 +45,12 @@ As informações são extraídas dos endereços abaixo e outros dados são encam
  Atualmente estou matriculado e cursando Python e Data Science na Prática (https://sigmoidal.ai/). <br>
  * **Exemplos de projetos realizados no curso**.<br>
    * [Projeto Airbnb](https://bit.ly/3qs4osv) <p>
- * No link abaixo, o arquivo foi criado com a ferramenta Pandas Profiling.<br>
+ * Nos links abaixo, os arquivos foram criados com a ferramenta Pandas Profiling.<br>
    As informações foram trabalhadas em um arquivo Excel(xlsx) e associada a ferramenta.<br>
    Arquivo Possui 452.730 linhas e 12 colunas.<br>
    * [Exemplo 01](https://bit.ly/3aX7wH6)<br>
+
+   Arquivo Possui 224.281 linhas e 37 colunas.<br>
    * [Exemplo 02]( https://bit.ly/3tgedKW)<br>
   
 **ACERP** - Exemplos de trabalhos desenvolvidos em análise de dados.<p>
