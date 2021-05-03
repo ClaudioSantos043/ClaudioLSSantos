@@ -45,6 +45,7 @@ As informações são extraídas dos endereços abaixo e outros dados são encam
  Atualmente estou matriculado e cursando Python e Data Science na Prática (https://sigmoidal.ai/). <br>
  * Exemplo de projeto realizado.
  [Projeto Airbnb](https://bit.ly/3qs4osv) <br>
+ [Exemplo](https://bit.ly/3aX7wH6)<br>
 
 
 **ACERP** - Exemplos de trabalhos desenvolvidos em análise de dados.<p>
