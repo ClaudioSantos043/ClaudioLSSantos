@@ -46,11 +46,11 @@ As informações são extraídas dos endereços abaixo e outros dados são encam
  * **Exemplos de projetos realizados no curso**.<br>
    * [Projeto Airbnb](https://bit.ly/3qs4osv) <p>
  * No link abaixo, o arquivo foi criado com a ferramenta Pandas Profiling.<br>
-   As informações foram trabalhadas em um arquivo Excel(xlsx) e associada ao Pandas Profiling.<br>
+   As informações foram trabalhadas em um arquivo Excel(xlsx) e associada a ferramenta.<br>
    Arquivo Possui 452.730 linhas e 12 colunas.<br>
-   * [Exemplo](https://bit.ly/3aX7wH6)<br>
-
-
+   * [Exemplo 01](https://bit.ly/3aX7wH6)<br>
+   * [Exemplo 02]( https://bit.ly/3tgedKW)<br>
+  
 **ACERP** - Exemplos de trabalhos desenvolvidos em análise de dados.<p>
 * **Em Power BI**
 	* TV INES 
