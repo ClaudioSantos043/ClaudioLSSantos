@@ -128,6 +128,8 @@ As informações são extraídas dos endereços abaixo e outros dados são encam
 	
 
 ## Eventos:
+* **FLAI (flai.com.br)**
+	* Semana do Iniciante em Data Science: Abr/2021 - OnLine.<br>
 * **Comunidade de Estatística**
 	* Maratona de Estatística, Pesquisa Operacional e Ciência de Dados: Mar/2021 - OnLine.<br>
 * **DATAB**
