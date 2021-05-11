@@ -106,7 +106,8 @@ As informações são extraídas dos endereços abaixo e outros dados são encam
 * **Allen Informática:** Visual Basic 6: (Fundamentals e Development) (2004).<br>
 * **INFNET:**
 	* Desenvolvimento de Aplicações Web (2001). <br>
-	* ASP (2001). <br> 
+	* ASP (2001). <p> 
+* **CONQUER:** Inteligência Emocional (2021). <br>
 * **ACERP:** Comunicação e Relacionamento Interpessoal (2006).
 <p><p>
 
