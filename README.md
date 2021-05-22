@@ -84,7 +84,9 @@ As informações são extraídas dos endereços abaixo e outros dados são encam
 	* Aprendendo Microsoft SQL Server Integrations Services - SSIS (2021).
 		* Curso básico e leitura para conhecimento desta ferramenta. <br> 
 * **BI do Brasil** DAX Avançado (2020).                <br>
-* **SQLBI:** Introdução DAX - OnLine (2020).           <br>
+* **SQLBI:** 
+	* Introdução DAX - OnLine (2020).           <br>
+	* Introdução Modelagem de Dados para Power BI - Online (2021). <br>
 * **UDACITY:** Fundamentos de Análise de Dados (2019). <br>
 * **DATAB:**
 	* Power BI – Módulos I e II (2018).<br>
