@@ -104,7 +104,6 @@ As informações são extraídas dos endereços abaixo e outros dados são encam
    * Projeto de Software Orientado a Componentes com UML (2007). <br>	
    * Levantamento de Requisitos de Software - Metodologia JAD (2004).<br>
    * Linguagem de 4ª Geração Visual Basic (2001).<br>
-* **SQLMOC:** Introdução a Linguagem T-SQL (2021). <br>   
 * **TI Master/Infnet:** Querying Microsoft SQL Server 2000 with Transact-SQL (2004).<br>
 * **Allen Informática:** Visual Basic 6: (Fundamentals e Development) (2004).<br>
 * **INFNET:**
