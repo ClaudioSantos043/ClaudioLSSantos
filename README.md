@@ -80,6 +80,9 @@ As informações são extraídas dos endereços abaixo e outros dados são encam
 
 
 ## Cursos | Formação Complementar:
+
+* **Professora Fernanda Maciel (https://www.proffernandamaciel.com/curso)** <br>
+	* Estatística para Ciência de Dados e Business Analytics. <br>
 * **Udemy**
 	* Aprendendo Microsoft SQL Server Integrations Services - SSIS (2021).
 		* Curso básico e leitura para conhecimento desta ferramenta. <br> 
@@ -115,9 +118,7 @@ As informações são extraídas dos endereços abaixo e outros dados são encam
 
 
 ## Cursos | Formação em desenvolvimento:
-* **Professora Fernanda Maciel (https://www.proffernandamaciel.com/curso)** <br>
-	* Estatística para Ciência de Dados e Business Analytics. <br>
-	* Período: 08/04/2021 a 27/05/2021. <br>
+
 * **Comunidade de Estatística do Prof. Thiago Marques (https://www.estatidados.com.br/)** <br>
 	* Comunidade de Estatística do Prof. Thiago Marques.<br>
 * **Sigmoidal (https://sigmoidal.ai/)** <br>
