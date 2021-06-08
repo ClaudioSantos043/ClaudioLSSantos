@@ -27,8 +27,7 @@ Condução de análises e tratativas de dados internos e externos; extraídos do
 <p>
 
 Desde 2016 trabalho efetivamente com análise de dados. <br>
-As informações são extraídas dos endereços abaixo e outros dados são encaminhados por fornecedores externos.<br>
-As informações são extraídas das fontes das Páginas Web e Aplicativos. 
+As informações são extraídas do Google Analytics, relacionados aos endereços descritos abaixo e outros dados são encaminhados por fornecedores externos.
 <p>
 
 **Páginas Web** <p>
@@ -47,19 +46,17 @@ As informações são extraídas das fontes das Páginas Web e Aplicativos.
 
 ## Projetos desenvolvidos para ACERP:
 
-Os relatórios são desenvolvidos em Excel, Power BI e Google DataStudio. <br>
-
 * **Trabalho desenvolvido em Power BI**
 
 * [Exemplo Power BI](https://bit.ly/2Nau0Mi)<p>
 
-	* TV INES 
-	* TV INES - Primeira Mão 
 	* TV Escola
-	* Percursos Educativos <p>
+	* Percursos Educativos 
+	* TV INES (página fora do ar)
+	* TV INES - Primeira Mão (página fora do ar)
+	<p>
 
 	
-
 * **Trabalho desenvolvido em Excel e inserido no Power Point / PDF**
 	* [Exemplo Power Point/PDF](https://bit.ly/2ZrYjAp)<p>
 
@@ -115,7 +112,7 @@ Os relatórios são desenvolvidos em Excel, Power BI e Google DataStudio. <br>
 	* ASP (2001). <p> 
 * **CONQUER:** Inteligência Emocional (2021). <br>
 * **ACERP:** Comunicação e Relacionamento Interpessoal (2006).
-<p><p>
+<p>
 
 
 ## Cursos | Formação em desenvolvimento:
