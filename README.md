@@ -70,8 +70,8 @@ As informações são extraídas do Google Analytics, relacionados aos endereço
  * **Exemplos de projetos realizados no curso**.<br>
    * [Projeto Airbnb](https://bit.ly/3qs4osv) <p>
  * Nos links abaixo, os arquivos foram criados com a ferramenta Pandas Profiling.<br>
+   
    As informações são de um cadastro e foram trabalhadas em um arquivo Excel.<br>
-
    Arquivo Possui 452.730 linhas e 12 colunas.<br>
    * [Exemplo 01](https://bit.ly/3aX7wH6)<br>
 
