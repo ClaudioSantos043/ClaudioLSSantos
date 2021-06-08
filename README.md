@@ -8,47 +8,67 @@
 * **MBA** em TV Digital, Radiodifusão e Novas Mídias de Comunicação Eletrônica pela UFF: (2011).<br>
 * **Extensão** em Formação de Programadores pela UFRJ/NCE - Núcleo Computação Eletrônica: (2003).<br>
 * **Graduação** em Tecnólogo em Processamento de Dados pela UNESA (Universidade Estácio de Sá): (1996). <br>
-* **Técnico** em Eletrônica pela Escola Técnica 1º de Maio: (1988)<p>
-
+* **Técnico** em Eletrônica pela Escola Técnica 1º de Maio: (1988).
+<p>
 
 ## Qualificação Profissional
-Vivência na extração, análise e tratativa de dados, apontando desvios, consolidando relatórios gerenciais e planilhas de controle (Excel, Power BI, VBA). Levantamento de requisitos, execução de testes e modelagens processuais – construindo manuais e aplicando controles para alavancar performance e otimizar operações de sistemas financeiros, controle de custos e rotinas.<p>
-
+Vivência na extração, análise e tratativa de dados, apontando desvios, consolidando relatórios gerenciais e planilhas de controle (Excel, Power BI, VBA). Levantamento de requisitos, execução de testes e modelagens processuais – construindo manuais e aplicando controles para alavancar performance e otimizar operações de sistemas financeiros, controle de custos e rotinas.<br>
 Destacando conhecimentos em Análise de Dados; metodologias de gestão ágeis e bancos de dados (Sql Server, MySQL e MS Access).
+<p>
 
 ## Experiência Profissional
 **ACERP (ROQUETTE PINTO). Período:** 2004 | Atual. **Cargo:** Analista de Desenvolvimento.<br>
 Condução de análises e tratativas de dados internos e externos; extraídos do Google Analytics. Levantamento de requisitos, condução de testes e consolidação de relatórios de controle – Excel; Power BI e Google Data Studio; apontando desvios, propondo planos de ação e adequações de processos; estruturando manuais de controle. Adoção de metodologias ágeis de gestão, participando de projetos de melhoria.  Desenvolvimento de soluções e aplicações de controle de custos e processos, adotando Visual Studio 2005 | Visual Basic 6. 
 <p>
 
-**Destaques | resultados:**
+**Destaques | Resultados:**
 * Participação no projeto de concepção e implantação do sistema de gestão integrada para gerenciamento do conteúdo da TV Brasil;
 * Condução de treinamentos e orientações de usuários para alinhar rotinas e garantir o correto uso das aplicações e das funcionalidades do sistema.
 <p>
 
 Desde 2016 trabalho efetivamente com análise de dados. <br>
-As informações são extraídas dos endereços abaixo e outros dados são encaminhados por fornecedores externos.<p>
+As informações são extraídas dos endereços abaixo e outros dados são encaminhados por fornecedores externos.<br>
+As informações são extraídas das fontes das Páginas Web e Aplicativos. 
+<p>
 
 **Páginas Web** <p>
-* https://tvines.org.br
+
 * https://tvescola.org.br
 * http://hotsite.tvescola.org.br/conexaoescolas/ 
 * http://hotsite.tvescola.org.br/percursos 
-* http://hotsite.tvescola.org.br/seguimosconectados/<p>
+* http://hotsite.tvescola.org.br/seguimosconectados/
+* https://tvines.org.br - Página fora do ar.<p>
 
 **Aplicativos** <p>
-
+* TV Escola 
 * TV INES
-* TV INES - Primeira Mão
-* TV Escola <p>
-
-**Experiência em:** Google Data Studio, MS Power BI, DAX e Excel.<p>
-
-**Links:**
-*  [LinkedIn](https://www.linkedin.com/in/claudio-luis-da-silva-santos/)<p>
+* TV INES - Primeira Mão <p>
 
 
-## Projetos:
+## Projetos desenvolvidos para ACERP:
+
+Os relatórios são desenvolvidos em Excel, Power BI e Google DataStudio. <br>
+
+* **Trabalho desenvolvido em Power BI**
+
+* [Exemplo Power BI](https://bit.ly/2Nau0Mi)<p>
+
+	* TV INES 
+	* TV INES - Primeira Mão 
+	* TV Escola
+	* Percursos Educativos <p>
+
+	
+
+* **Trabalho desenvolvido em Excel e inserido no Power Point / PDF**
+	* [Exemplo Power Point/PDF](https://bit.ly/2ZrYjAp)<p>
+
+* **Google DataStudio.**
+	* Projetos informados acima, também foram desenvolvidos nesta ferramenta. É necessário endereço de email particular para acesso. <p>
+	
+
+* **Projetos desenvolvidos nos cursos.<p>
+
  Atualmente estou matriculado e cursando Python e Data Science na Prática (https://sigmoidal.ai/). <br>
  * **Exemplos de projetos realizados no curso**.<br>
    * [Projeto Airbnb](https://bit.ly/3qs4osv) <p>
@@ -59,25 +79,6 @@ As informações são extraídas dos endereços abaixo e outros dados são encam
 
    Arquivo Possui 224.281 linhas e 37 colunas.<br>
    * [Exemplo 02]( https://bit.ly/3tgedKW)<br>
-  
-**ACERP** - Exemplos de trabalhos desenvolvidos em análise de dados.<p>
-* **Em Power BI**
-	* TV INES 
-	* TV INES - Primeira Mão 
-	* TV Escola
-	* Percursos Educativos <p>
-
-	* [Exemplo Power BI](https://bit.ly/2Nau0Mi)<p>
-
-* **Em Power Point / PDF**
-	* [Exemplo Power Point/PDF](https://bit.ly/2ZrYjAp)<p>
-
-* **Google DataStudio.**
-	* [TV Escola - Percursos Educativos](https://datastudio.google.com/u/0/reporting/4620b903-c6d6-4812-8cc0-75b4b356c773/page/Ly6EB)
-	* [TV Escola - Conexão Escolas](https://datastudio.google.com/u/0/reporting/afaefa9a-8b34-4489-939a-f2814647737e/page/fPZ3)
-	* [TV Escola - Seguimos Conectados](https://datastudio.google.com/u/0/reporting/5586e817-19c0-446d-87f6-ba5a715fc36f/page/xIxLB)<p>
-
-
 
 ## Cursos | Formação Complementar:
 
@@ -146,3 +147,9 @@ As informações são extraídas dos endereços abaixo e outros dados são encam
 * **V Seminário Big Data Brasil  :** Nov/2018 – Rio de Janeiro/RJ. <br>
 * **Scrum Gathering Rio 2014   :** Set/2014 – Rio de Janeiro/RJ. <br>
 * **2ª Conferência Latino-Americana sobre Metodologia Ágeis:** Out/2009 - Florianópolis/SC.
+
+
+
+
+**Experiência em:** Google Data Studio, MS Power BI, DAX e Excel.<p>
+
