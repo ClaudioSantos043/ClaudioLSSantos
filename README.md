@@ -77,7 +77,7 @@ As informações são extraídas do Google Analytics, relacionados aos endereço
    Arquivo Possui 224.281 linhas e 37 colunas.<br>
    * [Exemplo 02]( https://bit.ly/3tgedKW)<br>
 
-## Cursos | Formação Complementar:
+### Cursos | Formação Complementar:
 
 * **Professora Fernanda Maciel (https://www.proffernandamaciel.com/curso)** <br>
 	* Estatística para Ciência de Dados e Business Analytics. <br>
@@ -115,7 +115,7 @@ As informações são extraídas do Google Analytics, relacionados aos endereço
 <p>
 
 
-## Cursos | Formação em desenvolvimento:
+### Cursos | Formação em desenvolvimento:
 
 * **Comunidade de Estatística do Prof. Thiago Marques (https://www.estatidados.com.br/)** <br>
 	* Comunidade de Estatística do Prof. Thiago Marques.<br>
@@ -129,7 +129,7 @@ As informações são extraídas do Google Analytics, relacionados aos endereço
 	* DAX Pro. <p><p>
 	
 
-## Eventos:
+### Eventos:
 * **FLAI (flai.com.br)**
 	* Semana do Iniciante em Data Science: Abr/2021 - OnLine.<br>
 * **Comunidade de Estatística**
