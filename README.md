@@ -64,7 +64,7 @@ As informações são extraídas do Google Analytics, relacionados aos endereço
 	* Projetos informados acima, também foram desenvolvidos nesta ferramenta. É necessário endereço de email particular para acesso. <p>
 	
 
-* **Projetos desenvolvidos nos cursos.**<p>
+### Projetos desenvolvidos nos cursos.<p>
 
  Atualmente estou matriculado e cursando Python e Data Science na Prática (https://sigmoidal.ai/). <br>
  * **Exemplos de projetos realizados no curso**.<br>
