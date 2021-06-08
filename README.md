@@ -64,7 +64,7 @@ As informações são extraídas do Google Analytics, relacionados aos endereço
 	* Projetos informados acima, também foram desenvolvidos nesta ferramenta. É necessário endereço de email particular para acesso. <p>
 	
 
-* **Projetos desenvolvidos nos cursos.<p>
+* **Projetos desenvolvidos nos cursos.**<p>
 
  Atualmente estou matriculado e cursando Python e Data Science na Prática (https://sigmoidal.ai/). <br>
  * **Exemplos de projetos realizados no curso**.<br>
@@ -145,8 +145,4 @@ As informações são extraídas do Google Analytics, relacionados aos endereço
 * **Scrum Gathering Rio 2014   :** Set/2014 – Rio de Janeiro/RJ. <br>
 * **2ª Conferência Latino-Americana sobre Metodologia Ágeis:** Out/2009 - Florianópolis/SC.
 
-
-
-
-**Experiência em:** Google Data Studio, MS Power BI, DAX e Excel.<p>
 
