@@ -46,22 +46,22 @@ As informações são extraídas do Google Analytics, relacionados aos endereço
 
 ### Projetos desenvolvidos para ACERP:
 
-* **Trabalho desenvolvido em Power BI**
+	* **Trabalho desenvolvido em Power BI**
 
-* [Exemplo Power BI](https://bit.ly/2Nau0Mi)<p>
+		* [Exemplo Power BI](https://bit.ly/2Nau0Mi)<p>
 
-	* TV Escola
-	* Percursos Educativos 
-	* TV INES (página fora do ar)
-	* TV INES - Primeira Mão (página fora do ar)
-	<p>
+			* TV Escola
+			* Percursos Educativos 
+			* TV INES (página fora do ar)
+			* TV INES - Primeira Mão (página fora do ar)
+			<p>
 
 	
-* **Trabalho desenvolvido em Excel e inserido no Power Point / PDF**
-	* [Exemplo Power Point/PDF](https://bit.ly/2ZrYjAp)<p>
+	* **Trabalho desenvolvido em Excel e inserido no Power Point / PDF**
+		* [Exemplo Power Point/PDF](https://bit.ly/2ZrYjAp)<p>
 
-* **Google DataStudio.**
-	* Projetos informados acima, também foram desenvolvidos nesta ferramenta. É necessário endereço de email particular para acesso. <p>
+	* **Google DataStudio.**
+		* Projetos informados acima, também foram desenvolvidos nesta ferramenta. É necessário endereço de email particular para acesso. <p>
 	
 
 ### Projetos desenvolvidos nos cursos.<p>
