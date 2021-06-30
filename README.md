@@ -17,8 +17,8 @@ Destacando conhecimentos em Análise de Dados; metodologias de gestão ágeis e 
 <p>
 
 ## Experiência Profissional
-**ACERP (ROQUETTE PINTO). Período:** 2004 | Atual. **Cargo:** Analista de Desenvolvimento.<br>
-Condução de análises e tratativas de dados internos e externos; extraídos do Google Analytics. Levantamento de requisitos, condução de testes e consolidação de relatórios de controle – Excel; Power BI e Google Data Studio; apontando desvios, propondo planos de ação e adequações de processos; estruturando manuais de controle. Adoção de metodologias ágeis de gestão, participando de projetos de melhoria.  Desenvolvimento de soluções e aplicações de controle de custos e processos, adotando Visual Studio 2005 | Visual Basic 6. 
+**ACERP (ROQUETTE PINTO). Período:** Fevereiro/2004 | Atual. **Cargo:** Analista de Desenvolvimento.<br>
+Condução de análises e tratativas de dados internos e externos; extraídos do Google Analytics. Levantamento de requisitos, condução de testes e consolidação de relatórios de controle – Excel; Power BI, DAX e Google Data Studio; apontando desvios, propondo planos de ação e adequações de processos; estruturando manuais de controle. Adoção de metodologias ágeis de gestão, participando de projetos de melhoria.  Desenvolvimento de soluções e aplicações de controle de custos e processos, adotando Visual Studio 2005 | Visual Basic 6. 
 <p>
 
 **Destaques | Resultados:**
