@@ -48,7 +48,7 @@ As informações são extraídas do Google Analytics, relacionados aos endereço
 
 * **Trabalho desenvolvido em Power BI**
 
-* [Exemplo Power BI](https://bit.ly/3qNzkog)<p>
+* [Exemplo Power BI](https://bit.ly/3qOKmcI)<p>
 
 	* TV Escola
 	* Percursos Educativos 
