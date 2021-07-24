@@ -32,17 +32,17 @@ As informações são extraídas do Google Analytics, relacionados aos endereço
 
 **Páginas Web** 
 
-	* https://tvescola.org.br
-	* http://hotsite.tvescola.org.br/conexaoescolas/ 
-	* http://hotsite.tvescola.org.br/percursos 
-	* http://hotsite.tvescola.org.br/seguimosconectados/
-	* https://tvines.org.br - Página fora do ar.
+* https://tvescola.org.br
+* http://hotsite.tvescola.org.br/conexaoescolas/ 
+* http://hotsite.tvescola.org.br/percursos 
+* http://hotsite.tvescola.org.br/seguimosconectados/
+* https://tvines.org.br - Página fora do ar.
 <p>
 
 **Aplicativos** <p>
-	* TV Escola 
-	* TV INES
-	* TV INES - Primeira Mão 
+* TV Escola 
+* TV INES
+* TV INES - Primeira Mão 
 <p>
 
 
@@ -153,14 +153,14 @@ As informações são extraídas do Google Analytics, relacionados aos endereço
 * **Scrum Gathering Rio 2014   :** Set/2014 – Rio de Janeiro/RJ. <br>
 * **2ª Conferência Latino-Americana sobre Metodologia Ágeis:** Out/2009 - Florianópolis/SC.
 
-* **Clube do Livro - Estatística**
-	Clube do livro foi elaborado pela professora Fernanda Maciel (https://home.proffernandamaciel.com.br/). <br>
-	Neste semestre, teremos 6 reuniões para conversamos sobre os livros, são eles:
-	* Como Mentir com Estatística (Jul/2021).
-	* Estatística: O que é, para que serve e como funciona ? (Ago/2021).
-	* Fora de Série - Outliers (Set/2021).
-	* O Andar de do Bêbado: Como o acaso determina nossas vidas (Out/2021).
-	* Algoritmos de Destruição em Massa (Nov/2021).
-	* Factfulness: O hábito libertador de só ter opiniões em fatos. (Dez/2021).
+### Clube do Livro - Estatística:
+Clube do livro foi elaborado pela professora Fernanda Maciel (https://home.proffernandamaciel.com.br/). <br>
+Neste semestre, teremos 6 reuniões para conversamos sobre os livros, são eles:
+* Como Mentir com Estatística (Jul/2021).
+* Estatística: O que é, para que serve e como funciona ? (Ago/2021).
+* Fora de Série - Outliers (Set/2021).
+* O Andar de do Bêbado: Como o acaso determina nossas vidas (Out/2021).
+* Algoritmos de Destruição em Massa (Nov/2021).
+* Factfulness: O hábito libertador de só ter opiniões em fatos. (Dez/2021).
 
 
