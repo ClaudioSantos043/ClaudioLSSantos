@@ -36,7 +36,7 @@ As informações são extraídas do Google Analytics, relacionados aos endereço
 * http://hotsite.tvescola.org.br/conexaoescolas/ 
 * http://hotsite.tvescola.org.br/percursos 
 * http://hotsite.tvescola.org.br/seguimosconectados/
-* https://tvines.org.br - Página fora do ar.
+* https://tvines.org.br
 <p>
 
 **Aplicativos** <p>
@@ -54,8 +54,8 @@ As informações são extraídas do Google Analytics, relacionados aos endereço
 
 	* TV Escola
 	* Percursos Educativos 
-	* TV INES (página fora do ar)
-	* TV INES - Primeira Mão (página fora do ar)
+	* TV INES 
+	* TV INES - Primeira Mão
 	<p>
 
 	
