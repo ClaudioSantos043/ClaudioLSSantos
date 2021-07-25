@@ -85,8 +85,9 @@ As informações são extraídas do Google Analytics, relacionados aos endereço
 * **Ka Solution**
 	* Microsoft Azure Fundamentals (AZ-900) (2021). 							<br>
 	* Microsoft Azure Data Fundamentals (DP-900) (2021). 						<br>
+	* Microsoft Azure AI Fundamentals (AI-900) (2021). 						    <br>
 * **Professora Fernanda Maciel (https://www.proffernandamaciel.com/curso)** 	<br>
-	* Estatística para Ciência de Dados e Business Analytics (2021). 					<br>
+	* Estatística para Ciência de Dados e Business Analytics (2021). 			<br>
 * **Udemy**
 	* Aprendendo Microsoft SQL Server Integrations Services - SSIS (2021).
 		* Curso básico e leitura para conhecimento desta ferramenta. 			<br> 
