@@ -35,7 +35,7 @@ As informações são extraídas do Google Analytics, relacionados aos endereço
 
 ### Projetos desenvolvidos para ACERP:
 
-* **Exemplo de trabalhos desenvolvidos em Power BI**
+* **Exemplos de trabalhos desenvolvidos em Power BI.**
 
 	* [TV Escola](https://bit.ly/37NEWpH)<br>
 	* [Percursos Educativos](https://bit.ly/3m53Ut7)<br>
@@ -44,7 +44,7 @@ As informações são extraídas do Google Analytics, relacionados aos endereço
 	<p>
 
 	
-* **Trabalho desenvolvido em Excel e inserido no Power Point / PDF**
+* **Trabalhos desenvolvidos em Excel e inserido no Power Point / PDF.**
 	* [TV Escola](https://bit.ly/3AFoLHm)<br>
 	* [Percursos Educativos](https://bit.ly/3g8p9GO)<br>
 	* [TV INES](https://bit.ly/3jVJekK)<p>
@@ -57,7 +57,7 @@ As informações são extraídas do Google Analytics, relacionados aos endereço
 
  Atualmente estou matriculado e cursando Python e Data Science na Prática (https://sigmoidal.ai/). <br>
  * **Exemplos de projetos realizados no curso**.<br>
-   * [Projeto 01 Analisando os Dados do Airbnb](https://bit.ly/3xy9si2) <p>
+   * [Projeto 01 - Analisando os Dados do Airbnb](https://bit.ly/3xy9si2) <p>
  * Nos links abaixo, os arquivos foram criados com a ferramenta Pandas Profiling.<br>
    
    As informações são de um cadastro e foram trabalhadas em um arquivo Excel.<br>
@@ -85,7 +85,7 @@ As informações são extraídas do Google Analytics, relacionados aos endereço
 * **UDACITY:** Fundamentos de Análise de Dados (2019). 							<br>
 * **DATAB:**
 	* Power BI – Módulos I e II (2018).	
-		* [Projeto Desenv Módulo II](https://bit.ly/3jXCyCv)     				<br>
+		* [Projeto Desenvolvido Módulo II](https://bit.ly/3jXCyCv)     				<br>
     * Excel – Básico ao Avançado (2019). 										<br>
     * VBA – Básico ao Avançado (2020). 											<br>
 * **Cursos Expert Digital e Udemy:**
