@@ -85,7 +85,7 @@ As informações são extraídas do Google Analytics, relacionados aos endereço
 * **UDACITY:** Fundamentos de Análise de Dados (2019). 							<br>
 * **DATAB:**
 	* Power BI – Módulos I e II (2018).	
-		* [Projeto Desenv Módulo II](https://bit.ly/3xy9si2)     				<br>
+		* [Projeto Desenv Módulo II](https://bit.ly/3jXCyCv)     				<br>
     * Excel – Básico ao Avançado (2019). 										<br>
     * VBA – Básico ao Avançado (2020). 											<br>
 * **Cursos Expert Digital e Udemy:**
