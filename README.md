@@ -12,55 +12,42 @@
 <p>
 
 ## Qualificação Profissional
-Vivência na extração, análise e tratativa de dados, apontando desvios, consolidando relatórios gerenciais e planilhas de controle (Excel, Power BI, VBA). Levantamento de requisitos, execução de testes e modelagens processuais – construindo manuais e aplicando controles para alavancar performance e otimizar operações de sistemas financeiros, controle de custos e rotinas.<br>
+Vivência na extração, análise e tratativa de dados, apontando desvios, consolidando relatórios gerenciais e planilhas de controle (Excel, Power BI e DAX). Levantamento de requisitos, execução de testes e modelagens processuais – construindo manuais e aplicando controles para alavancar performance e otimizar operações de sistemas financeiros, controle de custos e rotinas.<br>
 Destacando conhecimentos em Análise de Dados; metodologias de gestão ágeis e bancos de dados (Sql Server, MySQL e MS Access).
 <p>
 
 ## Experiência Profissional
 **ACERP (ROQUETTE PINTO). Período:** Fevereiro/2004 | Atual. **Cargo:** Analista de Desenvolvimento.<br>
-Condução de análises e tratativas de dados internos e externos; extraídos do Google Analytics. Levantamento de requisitos, condução de testes e consolidação de relatórios de controle – Excel; Power BI, DAX e Google Data Studio; apontando desvios, propondo planos de ação e adequações de processos; estruturando manuais de controle. Adoção de metodologias ágeis de gestão, participando de projetos de melhoria.  Desenvolvimento de soluções e aplicações de controle de custos e processos, adotando Visual Studio 2005 | Visual Basic 6. 
+Condução de análises e tratativas de dados internos e externos; extraídos do Google Analytics. Levantamento de requisitos, condução de testes e consolidação de relatórios de controle – Excel; Power BI, DAX e Google Data Studio; apontando desvios, propondo planos de ação e adequações de processos; estruturando manuais de controle. Adoção de metodologias ágeis de gestão, participando de projetos de melhoria.<br>
+Desenvolvimento de soluções e aplicações de controle de custos e processos, adotando Visual Studio 2005 | Visual Basic 6. 
 <p>
 
 **Destaques | Resultados:**
 * Participação no projeto de concepção e implantação do sistema de gestão integrada para gerenciamento do conteúdo da TV Brasil;
 * Condução de treinamentos e orientações de usuários para alinhar rotinas e garantir o correto uso das aplicações e das funcionalidades do sistema.
+* Treinamento na ferramenta MS Excel.
 <p>
 
 Desde 2016 trabalho efetivamente com análise de dados. <br>
 As informações são extraídas do Google Analytics, relacionados aos endereços descritos abaixo e outros dados são encaminhados por fornecedores externos.
 <p>
 
-**Páginas Web** 
-
-* https://tvescola.org.br
-* http://hotsite.tvescola.org.br/conexaoescolas/ 
-* http://hotsite.tvescola.org.br/percursos 
-* http://hotsite.tvescola.org.br/seguimosconectados/
-* https://tvines.org.br
-<p>
-
-**Aplicativos** <p>
-* TV Escola 
-* TV INES
-* TV INES - Primeira Mão 
-<p>
-
 
 ### Projetos desenvolvidos para ACERP:
 
-* **Trabalho desenvolvido em Power BI**
+* **Exemplo de trabalhos desenvolvidos em Power BI**
 
-* [Exemplo Power BI](https://bit.ly/2VgkQS8)<p>
-
-	* TV Escola
-	* Percursos Educativos 
-	* TV INES 
-	* TV INES - Primeira Mão
+	* [TV Escola](https://bit.ly/37NEWpH)<br>
+	* [Percursos Educativos](https://bit.ly/3m53Ut7)<br>
+	* TV INES <br>
+	* TV INES - Aplicativo Primeira Mão 
 	<p>
 
 	
 * **Trabalho desenvolvido em Excel e inserido no Power Point / PDF**
-	* [Exemplo Power Point/PDF](https://bit.ly/2ZrYjAp)<p>
+	* [TV Escola](https://bit.ly/3AFoLHm)<br>
+	* [Percursos Educativos](https://bit.ly/3g8p9GO)<br>
+	* [TV INES](https://bit.ly/3jVJekK)<p>
 
 * **Google DataStudio.**
 	* Projetos informados acima, também foram desenvolvidos nesta ferramenta. É necessário endereço de email particular para acesso. <p>
@@ -97,7 +84,8 @@ As informações são extraídas do Google Analytics, relacionados aos endereço
 	* Introdução Modelagem de Dados para Power BI - Online (2021). 				<br>
 * **UDACITY:** Fundamentos de Análise de Dados (2019). 							<br>
 * **DATAB:**
-	* Power BI – Módulos I e II (2018).											<br>
+	* Power BI – Módulos I e II (2018).	
+		* [Projeto Desenv Módulo II](https://bit.ly/3xy9si2)     				<br>
     * Excel – Básico ao Avançado (2019). 										<br>
     * VBA – Básico ao Avançado (2020). 											<br>
 * **Cursos Expert Digital e Udemy:**
