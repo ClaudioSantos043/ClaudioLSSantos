@@ -70,6 +70,7 @@ As informações são extraídas do Google Analytics, relacionados aos endereço
    * [Exemplo 02]( https://bit.ly/3tgedKW)<br>
 
 #### FLAI (https://www.flai.com.br/dominando-data-science/).<p>
+Atualmente estou matriculado e cursando Data Science.<br>
 * **Exemplos de projetos realizados**.<br>
    * Power BI: [Projeto 01 - Visualização de dados da covid em Brasília](https://bit.ly/37RyEFS) <p>
 
