@@ -53,10 +53,11 @@ As informações são extraídas do Google Analytics, relacionados aos endereço
 	* Projetos informados acima, também foram desenvolvidos nesta ferramenta. É necessário endereço de email particular para acesso. <p>
 	
 
-### Projetos desenvolvidos nos cursos.<p>
+### Cursos em dersenvolvimento.<p>
+#### Sigmoidal (https://sigmoidal.ai/).<p>
 
- Atualmente estou matriculado e cursando Python e Data Science na Prática (https://sigmoidal.ai/). <br>
- * **Exemplos de projetos realizados no curso**.<br>
+ Atualmente estou matriculado e cursando Python e Data Science na Prática.<br>
+ * **Exemplos de projetos realizados**.<br>
    * [Projeto 01 - Analisando os Dados do Airbnb](https://bit.ly/3xy9si2) <p>
  * Nos links abaixo, os arquivos foram criados com a ferramenta Pandas Profiling.<br>
    
@@ -67,6 +68,10 @@ As informações são extraídas do Google Analytics, relacionados aos endereço
    As informações são de um cadastro de séries e programas e foram trabalhadas em um arquivo Excel.<br>
    Arquivo Possui 224.281 linhas e 37 colunas.<br>
    * [Exemplo 02]( https://bit.ly/3tgedKW)<br>
+
+#### FLAI (https://www.flai.com.br/dominando-data-science/).<p>
+* **Exemplos de projetos realizados**.<br>
+   * Power BI: [Projeto 01 - Visualização de dados da covid em Brasília](https://bit.ly/37RyEFS) <p>
 
 ### Cursos | Formação Complementar:
 * **Ka Solution**
