@@ -33,7 +33,7 @@ As informações são extraídas do Google Analytics, relacionados aos endereço
 <p>
 
 
-### Projetos desenvolvidos para ACERP:
+## Projetos desenvolvidos para ACERP:
 
 * **Exemplos de trabalhos desenvolvidos em Power BI.**
 
@@ -53,8 +53,8 @@ As informações são extraídas do Google Analytics, relacionados aos endereço
 	* Projetos informados acima, também foram desenvolvidos nesta ferramenta. É necessário endereço de email particular para acesso. <p>
 	
 
-### Cursos em dersenvolvimento.<p>
-#### Sigmoidal (https://sigmoidal.ai/).<p>
+## Cursos em dersenvolvimento.<p>
+### Sigmoidal (https://sigmoidal.ai/).<p>
 
  Atualmente estou matriculado e cursando Python e Data Science na Prática.<br>
  * **Exemplos de projetos realizados**.<br>
@@ -69,7 +69,7 @@ As informações são extraídas do Google Analytics, relacionados aos endereço
    Arquivo Possui 224.281 linhas e 37 colunas.<br>
    * [Exemplo 02]( https://bit.ly/3tgedKW)<br>
 
-#### FLAI (https://www.flai.com.br/dominando-data-science/).<p>
+### FLAI (https://www.flai.com.br/dominando-data-science/).<p>
 Atualmente estou matriculado e cursando Data Science.<br>
 * **Exemplos de projetos realizados**.<br>
    * Power BI: [Projeto 01 - Visualização de dados da covid em Brasília](https://bit.ly/37RyEFS) <p>
