@@ -59,6 +59,7 @@ As informações são extraídas do Google Analytics, relacionados aos endereço
  Atualmente estou matriculado e cursando Python e Data Science na Prática.<br>
  * **Exemplos de projetos realizados**.<br>
    * [Projeto 01 - Analisando os Dados do Airbnb](https://bit.ly/3xy9si2) <p>
+   * [Projeto 02 - Analisando os Dados do Covid-19](https://bit.ly/3ndUdZX) <p>
  * Nos links abaixo, os arquivos foram criados com a ferramenta Pandas Profiling.<br>
    
    As informações são de um cadastro e foram trabalhadas em um arquivo Excel.<br>
