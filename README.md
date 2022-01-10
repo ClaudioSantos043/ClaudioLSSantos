@@ -76,17 +76,19 @@ Atualmente estou matriculado e cursando Data Science.<br>
    * Power BI: [Projeto 01 - Visualização de dados da covid em Brasília](https://bit.ly/3mgj0vP) <p>
 
 ### Cursos | Formação Complementar:
+* **Arruda Consulting**
+	* Pentaho Data Integration (2022).											<br>
+* **Udemy**
+	* Pentaho Data integration - ETL Essencial (2021).
+		* Curso básico e leitura para conhecimento desta ferramenta. 			<br> 
+	* Aprendendo Microsoft SQL Server Integrations Services - SSIS (2021).
+		* Curso básico e leitura para conhecimento desta ferramenta. 			<br> 
 * **Ka Solution**
 	* Microsoft Azure Fundamentals (AZ-900) (2021). 							<br>
 	* Microsoft Azure Data Fundamentals (DP-900) (2021). 						<br>
 	* Microsoft Azure AI Fundamentals (AI-900) (2021). 						    <br>
 * **Professora Fernanda Maciel (https://www.proffernandamaciel.com/curso)** 	<br>
 	* Estatística para Ciência de Dados e Business Analytics (2021). 			<br>
-* **Udemy**
-	* Pentaho Data integration - ETL Essencial (2021).
-		* Curso básico e leitura para conhecimento desta ferramenta. 			<br> 
-	* Aprendendo Microsoft SQL Server Integrations Services - SSIS (2021).
-		* Curso básico e leitura para conhecimento desta ferramenta. 			<br> 
 * **BI do Brasil** DAX Avançado (2020).                							<br>
 * **SQLBI:** 
 	* Introdução DAX - OnLine (2020).           								<br>
