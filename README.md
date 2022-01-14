@@ -79,6 +79,14 @@ Atualmente estou matriculado e cursando Data Science.<br>
 ### Cursos | Formação Complementar:
 * **Arruda Consulting**
 	* Pentaho Data Integration (2022).											<br>
+		* [Exemplo desenvolvido](https://bit.ly/3A3puDd)						<br>
+			Conhecimentos de como tratar dados de diversas fontes de dados, entre elas:
+		* Conexão com diversas fontes de dados para serem tratadas (.TXT, .CSV, MS Excel, Banco de Dados).
+		* Concatenação de 2 ou mais colunas.
+		* Selecionar número ou textos de um campo.
+		* Cálculos.
+		* Outros tratamentos de dados.
+
 * **Udemy**
 	* Pentaho Data integration - ETL Essencial (2021).
 		* Curso básico e leitura para conhecimento desta ferramenta. 			<br> 
