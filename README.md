@@ -52,9 +52,12 @@ As informações são extraídas do Google Analytics, relacionados aos endereço
 
 * **Google DataStudio.**
 	* Projetos informados acima, também foram desenvolvidos nesta ferramenta. É necessário endereço de email particular para acesso. <p>
+
+* **Projetos Pessoais.**
+	* [Campeonato Brasileiro entre 2003 e 2021](https://bit.ly/3AfszQO)<br>
 	
 
-## Cursos em dersenvolvimento.<p>
+## Cursos em desenvolvimento.<p>
 ### Sigmoidal (https://sigmoidal.ai/).<p>
 
  Atualmente estou matriculado e cursando Python e Data Science na Prática.<br>
