@@ -18,7 +18,7 @@
 <p>
 
 ## Experiência Profissional
-**ACERP (ROQUETTE PINTO). Período:** Fevereiro/2004 | Atual. **Cargo:** Analista de Desenvolvimento.<br>
+**ACERP (ROQUETTE PINTO). Período:** Fev/2004 | Set/2021. **Cargo:** Analista de Desenvolvimento.<br>
 Condução de análises e tratativas de dados internos e externos; extraídos do Google Analytics. Levantamento de requisitos, condução de testes e consolidação de relatórios de controle – Excel; Power BI, DAX e Google Data Studio; apontando desvios, propondo planos de ação e adequações de processos; estruturando manuais de controle. Adoção de metodologias ágeis de gestão, participando de projetos de melhoria.<br>
 Desenvolvimento de soluções e aplicações de controle de custos e processos, adotando Visual Studio 2005 | Visual Basic 6. 
 <p>
@@ -32,29 +32,6 @@ Desenvolvimento de soluções e aplicações de controle de custos e processos, 
 Desde 2016 trabalho efetivamente com análise de dados. <br>
 As informações são extraídas do Google Analytics, relacionados aos endereços descritos abaixo e outros dados são encaminhados por fornecedores externos.
 <p>
-
-
-## Projetos desenvolvidos para ACERP:
-
-* **Exemplos de trabalhos desenvolvidos em Power BI.**
-
-	* [TV Escola](https://bit.ly/37NEWpH)<br>
-	* [Percursos Educativos](https://bit.ly/3m53Ut7)<br>
-	* TV INES <br>
-	* TV INES - Aplicativo Primeira Mão 
-	<p>
-
-	
-* **Trabalhos desenvolvidos em Excel e inserido no Power Point / PDF.**
-	* [TV Escola](https://bit.ly/3AFoLHm)<br>
-	* [Percursos Educativos](https://bit.ly/3g8p9GO)<br>
-	* [TV INES](https://bit.ly/3jVJekK)<p>
-
-* **Google DataStudio.**
-	* Projetos informados acima, também foram desenvolvidos nesta ferramenta. É necessário endereço de email particular para acesso. <p>
-
-* **Projetos Pessoais.**
-	* [Campeonato Brasileiro entre 2003 e 2021](https://bit.ly/3AfszQO)<br>
 	
 
 ## Cursos em desenvolvimento.<p>
@@ -91,6 +68,7 @@ Atualmente estou matriculado e cursando Data Science.<br>
 		* Outros tratamentos de dados.
 
 * **Udemy**
+	* Spotfire Cloud (2022). 													<br>
 	* Pentaho Data integration - ETL Essencial (2021).
 		* Curso básico e leitura para conhecimento desta ferramenta. 			<br> 
 	* Aprendendo Microsoft SQL Server Integrations Services - SSIS (2021).
@@ -175,4 +153,29 @@ Neste semestre, teremos 6 reuniões para conversamos sobre os livros, são eles:
 * Algoritmos de Destruição em Massa (Nov/2021).
 * Factfulness: O hábito libertador de só ter opiniões em fatos. (Dez/2021).
 
+
+## Projetos Desenvolvidos
+
+## ACERP:
+
+* **Power BI.**
+
+	* [TV Escola](https://bit.ly/37NEWpH)<br>
+	* [Percursos Educativos](https://bit.ly/3m53Ut7)<br>
+	* TV INES <br>
+	* TV INES - Aplicativo Primeira Mão 
+	<p>
+
+	
+* **Excel e inserido no Power Point / PDF.**
+	* [TV Escola](https://bit.ly/3AFoLHm)<br>
+	* [Percursos Educativos](https://bit.ly/3g8p9GO)<br>
+	* [TV INES](https://bit.ly/3jVJekK)<p>
+
+* **Google DataStudio.**
+	* Projetos informados acima, também foram desenvolvidos nesta ferramenta. É necessário endereço de email particular para acesso. <p>
+
+
+* **Projetos Pessoais.**
+	* [Campeonato Brasileiro entre 2003 e 2021](https://bit.ly/3AfszQO)<br>
 
