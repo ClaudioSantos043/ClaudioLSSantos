@@ -86,7 +86,7 @@ Atualmente estou matriculado e cursando Data Science.<br>
 * **UDACITY:** Fundamentos de Análise de Dados (2019). 							<br>
 * **DATAB:**
 	* Power BI – Módulos I e II (2018).	
-		* [Projeto Desenvolvido Módulo II](https://bit.ly/3jXCyCv)     				<br>
+		* [Projeto Desenvolvido Módulo II](https://bit.ly/3jXCyCv)     			<br>
     * Excel – Básico ao Avançado (2019). 										<br>
     * VBA – Básico ao Avançado (2020). 											<br>
 * **Cursos Expert Digital e Udemy:**
@@ -96,11 +96,13 @@ Atualmente estou matriculado e cursando Data Science.<br>
 * **ITeste:** Formação de Analista de Testes (2014). 							<br>
 * **PUC-Rio (CCE):**
    * Métodos Ágeis de Gerência em Desenvolvimento de Software (2009). 			<br>
+   * Projeto de Software Orientado a Componentes com UML (2007). 				<br>
    * Métodos de Revisão & Teste em Projetos de Software (2004). 				<br>
    * Análise Orientada a Objetos com UML (2004).								<br>
-   * Projeto de Software Orientado a Componentes com UML (2007). 				<br>	
    * Levantamento de Requisitos de Software - Metodologia JAD (2004).			<br>
    * Linguagem de 4ª Geração Visual Basic (2001).								<br>
+   * HTML - Construção de Home Page (2000).								        <br>
+   
 * **TI Master/Infnet:** Querying Microsoft SQL Server 2000 with Transact-SQL (2004).<br>
 * **Allen Informática:** Visual Basic 6: (Fundamentals e Development) (2004).	<br>
 * **INFNET:**
