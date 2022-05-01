@@ -139,7 +139,7 @@ Atualmente estou matriculado e cursando Data Science.<br>
 	* 5 passos simples para criar cálculos complexos no Power BI: Jul/2020 – OnLine. <br>
     * Dashboards, Como Evoluir do Excel para o Power BI: Mar/2020 – OnLine. <br>
 * **KA Solution**
-	* SCRUM Overview: Abr/2022.<br>
+	* SCRUM Overview: Abr/2022 - OnLine.<br>
 	* Dashboards. Como Evoluir do Excel para o Power BI: Mar/2020 - OnLine.
 * **MVPConf**
     * 2020: Dez/2020 – OnLine. <br>
