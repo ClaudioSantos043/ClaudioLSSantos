@@ -13,7 +13,7 @@
 
 ## Qualificação Profissional
 * Vivência na extração, análise e tratativa de dados, apontando desvios, consolidando relatórios gerenciais e planilhas de controle (Excel, Power BI e DAX). Levantamento de requisitos, execução de testes e modelagens processuais – construindo manuais e aplicando controles para alavancar performance e otimizar operações de sistemas financeiros, controle de custos e rotinas.<br>
-* Nos últimos meses (dez/2021), estudando a ferramenta Pentaho, para tratamento dos dados de diversas fontes de dados.<br>
+* Nos últimos meses, estudando a ferramenta Pentaho, para tratamento dos dados de diversas fontes de dados.<br>
 * Destacando conhecimentos em Análise de Dados; metodologias de gestão ágeis e bancos de dados (Sql Server, MySQL e MS Access).
 <p>
 
